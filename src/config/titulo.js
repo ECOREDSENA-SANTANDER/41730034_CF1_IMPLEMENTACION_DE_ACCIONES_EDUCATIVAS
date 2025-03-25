@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Transformando la educación: estrategias para entornos saludables y modelos pedagógicos '
