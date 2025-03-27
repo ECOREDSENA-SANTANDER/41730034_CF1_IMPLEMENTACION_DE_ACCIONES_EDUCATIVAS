@@ -47,6 +47,17 @@ figcaption
 .borde-redondo
   border-radius: 25px
 
+.borde-recto
+  border-radius: 0px
+
+.borde-recto-abajo
+  border-bottom-left-radius: 0px
+  border-bottom-right-radius: 0px
+
+.borde-recto-arriba
+  border-top-left-radius: 0px
+  border-top-right-radius: 0px
+
 .borde-redondo-abajo
   border-bottom-left-radius: 20px
   border-bottom-right-radius: 20px
@@ -58,8 +69,9 @@ figcaption
 .bgmorado
   background-color: #DAD7EF
 
-.bgamarillo
-  background-color: #FFEDCC
+.fondotema2
+  background: url('../assets/curso/temas/t2/fondo_tema2.png')
+  background-repeat: no-repeat
 
 // Acordion tema 1
 
@@ -99,3 +111,46 @@ figcaption
         height: 280%
     img
       position: relative
+
+// viñetas
+
+.fa-ol
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 20px
+      font-size: 1.4rem
+
+.fa-al
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 19px
+      font-size: 1.4rem
+
+.fa-check-circle:before
+  content: url('../assets/curso/temas/check-morado.png')
+
+// Tab A tema 2
+
+.tabs-a__tab 
+  background-color: #FFA500
+  padding: 10px !important
+
+.tabs-a.color-acento-botones .tabs-a__tab__selected
+  color: black !important
+
+.tarjeta.color-primario 
+  background-color: #DEF6D4 !important
+
+.tarjeta.color-primario * 
+  color: black !important
+
+// Pasos tema 2
+
+.pasos-a.color-acento-contenido .pasos-a__circle div 
+    color: black !important
