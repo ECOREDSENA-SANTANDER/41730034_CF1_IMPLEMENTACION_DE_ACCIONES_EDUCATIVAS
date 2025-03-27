@@ -241,7 +241,7 @@
         .col
           h3.mb-0.mx-3 Actores en la ejecución de la estrategia de entornos saludables (EES)
 
-      p.mb-4 La ejecución de la estrategia de entornos saludables (EES) requiere la participación de diversos actores a nivel internacional, nacional, departamental, local y comunitario, a continuación, se presentan los principales actores involucrados en cada nivel:
+      p.mb-5 La ejecución de la estrategia de entornos saludables (EES) requiere la participación de diversos actores a nivel internacional, nacional, departamental, local y comunitario, a continuación, se presentan los principales actores involucrados en cada nivel:
 
 
 
