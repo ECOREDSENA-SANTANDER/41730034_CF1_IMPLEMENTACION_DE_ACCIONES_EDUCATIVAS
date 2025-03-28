@@ -308,11 +308,83 @@
                     img.mt-5(src='@/assets/curso/temas/t2/sly1-4.png' alt='')
 
     Separador  
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 2.2 Metodología e instrumentos
 
+    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
+      .col-auto
+        img(src='@/assets/curso/temas/t2/ico3.png', alt='')
+      .col
+        p.py-3.mb-0 El comité técnico nacional para entornos saludables (CTNES) tiene como función principal apoyar a las autoridades departamentales, distritales y municipales en el desarrollo e implementación de metodologías e instrumentos normativos para la promoción de entornos saludables, esto se logra mediante la difusión y aplicación de herramientas diseñadas por las entidades que conforman el comité, garantizando un enfoque integral y basado en la evidencia.
 
+    p.mb-5 Para la ejecución de la estrategia de entornos saludables (EES), se han desarrollado diversas metodologías e instrumentos que permiten fortalecer la gestión en salud y la promoción de entornos sostenibles, entre ellos se destacan los siguientes:
 
+    .row.align-items-center.mb-5.subt(data-aos="fade-right")
+      .col-auto.ico
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+      .col
+        h3.mb-0.mx-3.p-0 Metodologías e instrumentos utilizados en la ejecución de la EES
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+      .col-lg-9.col-sm-12.col-md-12.bgmorado.p-4
+        ul.lista-ul--color.fa-al  
+          li.mb-2   
+            i.fas.fa-shopping-cart 
+            span.mb-0 Atención integral de enfermedades prevalentes de la infancia (AIEPI).
+          li.mb-2   
+            i.fas.fa-shopping-cart 
+            span.mb-0 Programa ampliado de inmunizaciones (PAI).
+          li.mb-2   
+            i.fas.fa-shopping-cart 
+            span.mb-0 Estrategia para el control integrado de enfermedades de transmisión vectorial, incluyendo la estrategia de comunicación para el cambio conductual (COMBI).
+          li.mb-2   
+            i.fas.fa-shopping-cart 
+            span.mb-0 Tratamiento acortado estrictamente supervisado para tuberculosis (DOTS/TAS).
+          li.mb-2   
+            i.fas.fa-shopping-cart 
+            span.mb-0 Sala situacional y análisis de la situación de salud (ASIS).
+          li.mb-2   
+            i.fas.fa-shopping-cart 
+            span.mb-0 Gestión integral del riesgo en salud.
+          li.mb-2   
+            i.fas.fa-shopping-cart 
+            span.mb-0 Modelo de gestión local de salud.
+          li.mb-2   
+            i.fas.fa-shopping-cart 
+            span.mb-0 Implementación de tecnologías adecuadas para la construcción de espacios de convivencia seguros, saludables y sostenibles.
+          li.mb-2   
+            i.fas.fa-shopping-cart 
+            span.mb-0 Programa comunitario “Hacia una vivienda saludable - Que viva mi hogar”.
+          li.mb-2   
+            i.fas.fa-shopping-cart 
+            span.mb-0 Estos instrumentos y metodologías permiten fortalecer la capacidad institucional y comunitaria para garantizar entornos seguros, saludables y sostenibles.
+      .col-lg-3.col-sm-6.col-md-6
+        img(src='@/assets/curso/temas/t2/img4.png', alt='')
+
+    .row.justify-content-center.mt-4(data-aos="fade-down") 
+      .col-lg-8.col-sm-12.col-md-12
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 3. 
+          | Metodología e instrumentos EES
+    .row.justify-content-center.mb-3(data-aos="fade-down") 
+      .col-lg-12.col-sm-12.col-md-12
+        figure
+          img(src='@/assets/curso/temas/t2/fig3.png', alt='Diagrama de metodología e instrumentos de la Estrategia de entornos saludables (EES). presenta diversas herramientas como el modelo de gestión local de salud, la gestión integral del riesgo, programas de inmunización y control de enfermedades, estrategias de comunicación para el cambio conductual, tecnologías para entornos saludables y Análisis de la situación de salud (ASIS).')
+
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-down")
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/t2/img5.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 La vivienda saludable es un componente esencial para el bienestar de las personas y la promoción de entornos seguros y sostenibles, en este contexto, la guía metodológica para la aplicación de la estrategia de vivienda saludable ofrece un marco de referencia para la implementación de prácticas que garanticen condiciones adecuadas de habitabilidad, higiene, ventilación e infraestructura, contribuyendo así a la prevención de enfermedades y a la mejora de la calidad de vida. La estrategia está diseñada para ser aplicada por diversos actores, incluyendo gobiernos locales, organizaciones comunitarias y la sociedad en general, con el fin de fomentar el desarrollo de hogares resilientes y sostenibles.
+
+    .row.justify-content-center.mt-5.fondotema21(data-aos="fade-down") 
+      .col-lg-8.col-sm-12.col-md-12
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 4. 
+          |  Elementos vivienda saludable
+        figure
+          img(src='@/assets/curso/temas/t2/fig4.png', alt='Diagrama de los elementos de una vivienda saludable: casa (refugio físico), hogar (grupo familiar), entorno (espacio inmediato) y comunidad (vecinos).')
 
 
 

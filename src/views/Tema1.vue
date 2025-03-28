@@ -91,7 +91,7 @@
             h5 Figura 1. 
             | Naciones unidas en Colombia
           figure
-            img(src='@/assets/curso/temas/t1/fig1.png', alt='Texto alternativo: logos de la Organización panamericana de la salud (OPS) y la Organización mundial de la salud (OMS), la imagen incluye un mapa de américa y una vara de asclepio, con textos en azul que identifican a ambas entidades y su función como oficina regional para las américas.')
+            img(src='@/assets/curso/temas/t1/fig1.png', alt='Logos de la Organización panamericana de la salud (OPS) y la Organización mundial de la salud (OMS), la imagen incluye un mapa de américa y una vara de asclepio, con textos en azul que identifican a ambas entidades y su función como oficina regional para las américas.')
 
       .row.align-items-center.mb-5.subt(data-aos="fade-right")
         .col-auto.ico
@@ -115,7 +115,7 @@
             h5 Figura 2. 
             | Actores estratégicos de EES
           figure
-            img(src='@/assets/curso/temas/t1/fig2.png', alt='Texto alternativo: Mapa conceptual de los actores de la Estrategia de entornos saludables (EES), que muestra la relación entre entidades como ministerios, instituciones educativas y organizaciones sociales en la promoción de entornos saludables.')
+            img(src='@/assets/curso/temas/t1/fig2.png', alt='Mapa conceptual de los actores de la Estrategia de entornos saludables (EES), que muestra la relación entre entidades como ministerios, instituciones educativas y organizaciones sociales en la promoción de entornos saludables.')
 
 
 
