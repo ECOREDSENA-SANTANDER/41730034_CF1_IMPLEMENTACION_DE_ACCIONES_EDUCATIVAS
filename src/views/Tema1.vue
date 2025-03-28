@@ -52,7 +52,7 @@
         .col-auto.ico
           img(src='@/assets/curso/temas/subt.svg', alt='')
         .col
-          h3.mb-0.mx-3 Determinantes de la salud
+          h3.mb-0.mx-3.p-0 Determinantes de la salud
 
       .row.align-items-center.justify-content-center.mb-3(data-aos="fade-down")
         .col-sm-10.col-md-10.col-lg-5

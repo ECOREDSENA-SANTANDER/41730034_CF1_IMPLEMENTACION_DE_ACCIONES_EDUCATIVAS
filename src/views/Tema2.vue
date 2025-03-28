@@ -180,7 +180,7 @@
 
     p.mb-0 La organización panamericana de la salud (OPS) establece una serie de objetivos clave para fortalecer la atención primaria ambiental, alineados con los principios del desarrollo sostenible y la gestión ambiental eficiente. Estos objetivos incluyen:
 
-  .container.tarjeta.tarjeta--blanca.fondotema2.p-md-5.mb-5.borde-recto
+  .container.tarjeta.tarjeta--blanca.fondotema2.p-md-5.borde-recto
     .row.align-items-center.justify-content-center.mb-4
       .col-sm-12.col-md-12.col-lg-10
         PasosA.color-acento-contenido.mb-0(tipo="l")
@@ -229,19 +229,89 @@
 
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.borde-recto-arriba
 
-      .row.justify-content-center.align-items-center.bgmorado.mb-5(data-aos="fade-left")
-        .col-auto
-          img(src='@/assets/curso/temas/t2/ico2.png', alt='')
-        .col
-          p.py-3.mb-0 Según la organización panamericana de la salud (OPS) y la Organización mundial de la salud (OMS), el trabajo en los entornos constituye una oportunidad clave para la acción intersectorial, dado que se trata de un proceso complejo que demanda movilización social y una gestión política efectiva, es fundamental contar con el compromiso y la participación activa de diversos actores, estos incluyen organismos gubernamentales, instituciones académicas, el sector privado, organizaciones de la sociedad civil y la comunidad en general, cuya cooperación es esencial para la implementación y sostenibilidad de las estrategias, a continuación se describen los actores.
+    .row.justify-content-center.align-items-center.bgmoradoclaro.mb-5(data-aos="fade-left")
+      .col-auto
+        img(src='@/assets/curso/temas/t2/ico2.png', alt='').d-none.d-lg-block
+      .col
+        p.py-3.mb-0 Según la organización panamericana de la salud (OPS) y la Organización mundial de la salud (OMS), el trabajo en los entornos constituye una oportunidad clave para la acción intersectorial, dado que se trata de un proceso complejo que demanda movilización social y una gestión política efectiva, es fundamental contar con el compromiso y la participación activa de diversos actores, estos incluyen organismos gubernamentales, instituciones académicas, el sector privado, organizaciones de la sociedad civil y la comunidad en general, cuya cooperación es esencial para la implementación y sostenibilidad de las estrategias, a continuación se describen los actores.
 
-      .row.align-items-center.mb-5.subt(data-aos="fade-right")
-        .col-auto.ico
-          img(src='@/assets/curso/temas/subt.svg', alt='')
-        .col
-          h3.mb-0.mx-3 Actores en la ejecución de la estrategia de entornos saludables (EES)
+    .row.align-items-center.mb-5.subt(data-aos="fade-right")
+      .col-auto.ico
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+      .col
+        h3.mb-0.mx-3 Actores en la ejecución de la estrategia de entornos saludables (EES)
 
-      p.mb-5 La ejecución de la estrategia de entornos saludables (EES) requiere la participación de diversos actores a nivel internacional, nacional, departamental, local y comunitario, a continuación, se presentan los principales actores involucrados en cada nivel:
+    p.mb-4 La ejecución de la estrategia de entornos saludables (EES) requiere la participación de diversos actores a nivel internacional, nacional, departamental, local y comunitario, a continuación, se presentan los principales actores involucrados en cada nivel:
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+       .col-lg-3.col-6.col-md-6
+         img(src='@/assets/curso/temas/t2/img2.png', alt='')
+       .col-lg-5.col-sm-12.col-md-12.bgmorado.p-4
+         h4.bgamarillo.mt-4.mb-3.p-2 Organizaciones internacionales de cooperación técnica
+         ul.lista-ul--color.fa-al  
+           li.mb-2   
+             i.fas.fa-shopping-cart 
+             span.mb-0 Organización panamericana de la salud (OPS) / Organización mundial de la salud (OMS).
+           li.mb-2   
+             i.fas.fa-shopping-cart 
+             span.mb-0Programa de las naciones unidas para el desarrollo (PNUD).
+           li.mb-2   
+             i.fas.fa-shopping-cart  
+             span.mb-0 Fondo de las naciones unidas para la infancia (UNICEF).
+           li.mb-2   
+             i.fas.fa-shopping-cart 
+             span.mb-0 Fondo de población de las naciones unidas (UNFPA).
+           li.mb-2   
+             i.fas.fa-shopping-cart 
+             span.mb-0 Organización internacional para las migraciones (OIM).
+           li.mb-2   
+             i.fas.fa-shopping-cart 
+             span.mb-0 Programa mundial de alimentos (PMA).
+           li.mb-2   
+             i.fas.fa-shopping-cart 
+             span.mb-0Alto comisionado de las naciones unidas para los refugiados (ACNUR).
+       .col-lg-4.col-sm-8.col-md-8.p-0
+         img(src='@/assets/curso/temas/t2/img3.png', alt='')
+
+    .row.fondosly.align-items-center.p-4.py-5
+      .col-lg-12.col-12.px-lg-5.px-4
+        .row.justify-content-center
+          .tarjeta.tarjeta--blanca.p-4.py-3(data-aos="fade-down")
+              SlyderA(tipo="b")
+                .row.justify-content-center.align-items-center
+                  .col-sm-12.col-md-12.col-lg-6
+                    h3.mt-4 Nivel nacional
+                    p.mb-4 Entidades gubernamentales, ministerios de: protección social, educación nacional, ambiente, vivienda y desarrollo territorial; otras entidades: acción social, servicio nacional de aprendizaje (SENA), Instituto colombiano de bienestar familiar (ICBF), departamento nacional de planeación (DNP), federación nacional de departamentos, federación nacional de municipios, Corporación colombiana de secretarios municipales y distritales de salud (COSESAM).
+                  .col-1
+                  .col-6.col-md-6.col-lg-4
+                    img.mt-5(src='@/assets/curso/temas/t2/sly1-1.png' alt='')
+                .row.justify-content-center.align-items-center
+                  .col-sm-12.col-md-12.col-lg-6
+                    h3.mt-4 Nivel departamental
+                    p.mb-4 Gobernador (autoridad departamental) y secretarías departamentales y distritales: salud, educación, secretarías de obras y planeación, regionales del sena, corporaciones y organizaciones no gubernamentales (ONG), instituciones educativas.
+                  .col-1
+                  .col-6.col-md-6.col-lg-4
+                    img.mt-5(src='@/assets/curso/temas/t2/sly1-2.png' alt='')
+                .row.justify-content-center.align-items-center
+                  .col-sm-12.col-md-12.col-lg-6
+                    h3.mt-4 Nivel local
+                    p.mb-4 Alcalde (autoridad municipal) y secretarías municipales: salud, educación, planeación, bienestar social, obras públicas, regionales del sena, organizaciones no gubernamentales (ONG), instituciones educativas, empresas públicas y privadas.
+                  .col-1
+                  .col-6.col-md-6.col-lg-4
+                    img.mt-5(src='@/assets/curso/temas/t2/sly1-3.png' alt='')
+                .row.justify-content-center.align-items-center
+                  .col-sm-12.col-md-12.col-lg-6
+                    h3.mt-4 Comunidad
+                    p.mb-4 Madres y padres de familia, docentes, estudiantes, organizaciones comunitarias, religiosas, líderes comunitarios y agentes educativos comunitarios.
+                  .col-1
+                  .col-6.col-md-6.col-lg-4
+                    img.mt-5(src='@/assets/curso/temas/t2/sly1-4.png' alt='')
+
+    Separador  
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2 2.2 Metodología e instrumentos
+
+
 
 
 
