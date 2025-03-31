@@ -69,6 +69,9 @@ figcaption
 .bgmorado
   background-color: #DAD7EF
 
+.bgmoradoclaro
+  background-color: #E2C6F4
+
 .bgamarillo
   background-color: #FFEDCC
 
@@ -150,6 +153,15 @@ figcaption
 .fa-shopping-cart:before
   content: url('../assets/curso/temas/t2/vineta_morada.png')
 
+// botones ver
+
+.tarjeta.fondoespecial
+  background: url('../assets/curso/temas/t3/fondobt.png')
+  background-repeat: no-repeat
+
+.boton.color-acento-botones *, .color-acento-botones.boton--sm * 
+    color: black !important
+
 // Tab A tema 2
 
 .tabs-a__tab 
@@ -206,3 +218,18 @@ figcaption
   .slyder-a__btn--sigt, .slyder-a__btn--atrs
     width: 30px
     height: 30px
+
+// tab tema 1
+
+ 
+.escala-grises .tabs-b__tab 
+  &.tabs-b__tab--active .tabs-b__tab__icon
+    filter: grayscale(0)
+    transition: all 0.2s ease-out
+  .tabs-b__tab__icon  // activo
+    filter: grayscale(1)
+    transition: all 0.2s ease-out
+
+.tabs-b
+  border-bottom: none !important
+
