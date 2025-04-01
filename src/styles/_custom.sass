@@ -72,6 +72,9 @@ figcaption
 .bgmoradoclaro
   background-color: #E2C6F4
 
+.bgmoradomedio
+  background-color: #B5AEE0
+
 .bgamarillo
   background-color: #FFEDCC
 
@@ -92,6 +95,15 @@ figcaption
 .bgespecial
   background: url('../assets/curso/temas/t3/fondo3.png')
   background-repeat: no-repeat
+
+.cajon.color-primario
+  background-color: #EDEBF7
+
+.tarjeta--boton
+  background: url('../assets/curso/temas/t4/fondo2tar.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: cover
 
 
 // Acordion tema 1
@@ -134,7 +146,6 @@ figcaption
       position: relative
       max-width: 50px
 
-
 // viñetas
 
 .fa-ol
@@ -163,6 +174,13 @@ figcaption
 
 .fa-bell:before
   content: url('../assets/curso/temas/t3/vineta-blanca.png')
+
+.lista-ul--separador.pequeno li 
+    padding-bottom: 5px
+
+.lista-ul--separador.pequeno2 li 
+    padding-bottom: 10px
+
 
 // botones ver
 
@@ -288,3 +306,24 @@ figcaption
   background-size: 100% 100%
   background-repeat: no-repeat
   background-position: cover
+
+// tarjetas boton
+
+.cambiartarjeta
+  background-image: url('../assets/curso/temas/t4/fondo2tar.png')
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center 
+  border-radius: 15px
+  &:hover
+    background-image: url('../assets/curso/temas/t4/fondo1tar.png')
+    color: white
+    
+.cambiartexto
+  background-color: none
+  color: white
+
+.cambiartexto:hover
+  background-color: #FFA500
+  color: black
+
