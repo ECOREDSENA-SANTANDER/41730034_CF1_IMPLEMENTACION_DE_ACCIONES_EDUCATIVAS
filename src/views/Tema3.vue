@@ -275,7 +275,7 @@
                 h2.mb-4.bgnegro.bgacentocontenido.text-center Fase tecnológica preparatoria
             ul.lista-ul--color.fa-al  
               li   
-                i.fas.fa-check-circle.blanco
+                i.fas.fa-check-circle
                 span.mb-0 Establecimiento de acuerdos con instituciones y organizaciones que aporten conocimientos y recursos tecnológicos.
               li   
                 i.fas.fa-check-circle  
