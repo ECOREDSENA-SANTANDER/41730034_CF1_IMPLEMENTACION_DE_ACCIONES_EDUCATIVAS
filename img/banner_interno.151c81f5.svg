@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="220" viewBox="0 0 1600 220">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_401460" data-name="Rectángulo 401460" width="1600" height="220" transform="translate(-0.219 70)" fill="#4635b1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_401459" data-name="Rectángulo 401459" width="1649" height="498" transform="translate(135.781 12481)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.513" y1="1" x2="0.5" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#77af8f" stop-opacity="0"/>
+      <stop offset="0.399" stop-color="#def6d4"/>
+      <stop offset="1" stop-color="#aeea94"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.513" x2="0.5" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#59836b" stop-opacity="0"/>
+      <stop offset="0.399" stop-color="#def6d4"/>
+      <stop offset="1" stop-color="#aeea94"/>
+    </linearGradient>
+  </defs>
+  <g id="Enmascarar_grupo_1098685" data-name="Enmascarar grupo 1098685" transform="translate(0.219 -70)" clip-path="url(#clip-path)">
+    <rect id="Rectángulo_401456" data-name="Rectángulo 401456" width="1600" height="220" transform="translate(-0.219 70)" fill="#4635b1"/>
+    <g id="Enmascarar_grupo_1098684" data-name="Enmascarar grupo 1098684" transform="translate(-185 -12515)" clip-path="url(#clip-path-2)">
+      <g id="Grupo_1099629" data-name="Grupo 1099629" transform="translate(132.967 12481)">
+        <path id="Unión_27" data-name="Unión 27" d="M.608,834.838V449.318c-.2-.394-.406-.786-.608-1.18V129.322C70.853,28.425,216.947-3.423,352.759.286,461.341,3.251,564.367,31.581,656.879,71.5c81.815,35.3,156.6,79.744,241.184,111.187,208.884,77.655,443.064,7.47,651.366-70.5,33.948-12.706,68.036-25.347,102.224-37.605V402.76h1.474V834.838Z" transform="translate(0.004 0)" opacity="0.079" fill="url(#linear-gradient)"/>
+        <path id="Unión_28" data-name="Unión 28" d="M1334.979,776.943c-136.805,0-269.683-46.281-399.744-94.3-127.581-47.1-271.01-89.5-398.946-42.59-51.807,18.994-97.61,45.842-147.72,67.171-56.662,24.116-119.763,41.231-186.267,43.022C127.123,752.27,46.8,736.745,0,688.74V0H1689.307V464.31H1687.8V624.093c-42.924,74.319-143.016,122.821-245.627,142.747A560.231,560.231,0,0,1,1335,776.943Z" transform="translate(1738.426 906.642) rotate(180)" opacity="0.079" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>
