@@ -12,13 +12,13 @@
         p.mb-4 El componente educativo es un eje fundamental dentro de la estrategia de vivienda saludable (EVS), ya que busca generar conciencia y fortalecer las capacidades de la comunidad en la implementación, mantenimiento y sostenibilidad de viviendas saludables, a través de este enfoque, se fomenta la adopción de hábitos protectores para la salud, la participación social y la apropiación del entorno habitacional.
         .cajon.color-primario.p-4
           p #[b El objetivo principal del componente educativo:] es orientar a los ejecutores de proyectos de vivienda saludable en el diseño, planificación e implementación de estrategias educativas que permitan la apropiación de la EVS a nivel local. Esto garantiza que las comunidades puedan gestionar de manera autónoma el mantenimiento y mejora de sus viviendas, asegurando condiciones óptimas de habitabilidad y bienestar.
-      .col-lg-5.col-md-8.col-8
+      .col-lg-5.col-md-8.col-12
         img.mt-2(src='@/assets/curso/temas/t4/img1.png', alt='')
     
     p.mb-4 Para lograr la implementación efectiva del componente educativo, se establecen los siguientes objetivos específicos:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
-      .col-lg-4.col-md-6.col-6
+      .col-lg-4.col-md-6.col-12
         img(src='@/assets/curso/temas/t4/img2.png', alt='')
       .col-lg-8.col-md-12.col-sm-12
         ul.lista-ul--color.lista-ul--separador.pequeno2.mb-0
@@ -142,14 +142,14 @@
               img(src='@/assets/curso/temas/t4/ico2.png', alt='')
         .row
           p.mt-2 Para la formación de facilitadores y agentes comunitarios, se llevarán a cabo cursos estructurados bajo la metodología de taller, donde se brindará capacitación teórica y práctica en promoción de la salud, estrategias de comunicación y técnicas de intervención comunitaria, estas sesiones permitirán fortalecer sus competencias y garantizar un impacto positivo en la implementación del programa.
-      .col-lg-3.col-md-6.col-3
+      .col-lg-3.col-md-6.col-12
         img.borde-redondo(src='@/assets/curso/temas/t4/img6.png', alt='')
       .col-lg-5.col-md-12.col-sm-12
         .row.bgmoradoclaro.borde-redondo.p-2
           p.p-3.mb-0 En términos de logística, se deberá disponer de un espacio adecuado para la realización de los eventos de formación, el cual cuente con las condiciones necesarias para el desarrollo de las actividades, además, será imprescindible contar con refrigerios, materiales pedagógicos, transporte para los participantes y, en caso necesario, apoyo para el traslado de los facilitadores en las diferentes zonas de intervención, también se debe considerar la provisión de equipos audiovisuales, papelería y documentos de apoyo, elementos clave para optimizar la enseñanza y el aprendizaje durante los talleres.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
-      .col-lg-5.col-md-8.col-8.p-0
+      .col-lg-5.col-md-8.col-12.p-0
         img.p-0(src='@/assets/curso/temas/t4/img7.png', alt='')
       .col-lg-7.col-md-12.col-sm-12.bgmoradomedio
         .row.mt-1
@@ -160,7 +160,7 @@
     p.mb-4 Las herramientas de formación son los recursos utilizados para estructurar y desarrollar el proceso educativo dentro del programa, estas permiten garantizar la correcta aplicación de la estrategia y facilitan la transferencia de conocimientos, entre las herramientas clave se incluyen:
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
-      .col-lg-4.col-md-6.col-6
+      .col-lg-4.col-md-6.col-12
         img(src='@/assets/curso/temas/t4/img8.png', alt='')
       .col-lg-8.col-md-12.col-sm-12.mb-0
         ul.lista-ul--color.lista-ul--separador.pequeno.mt-3
@@ -211,7 +211,7 @@
           li.mb-0   
             i.fas.fa-check-circle
             span.mb-1 Establecer mecanismos de seguimiento y evaluación, con el fin de medir la efectividad de las intervenciones y realizar ajustes en la implementación de la estrategia.
-      .col-lg-5.col-md-8.col-8.p-0
+      .col-lg-5.col-md-8.col-12.p-0
         img(src='@/assets/curso/temas/t4/img9.png', alt='')
 
     .row.justify-content-center.mt-5.mb-0(data-aos="fade-down") 
@@ -222,7 +222,7 @@
     .row.justify-content-center.mt-0.p-0(data-aos="fade-down")
       .col-lg-12.col-sm-12.col-md-12.p-0.mt-0
         figure
-          img.p-0.mt-0(src='@/assets/curso/temas/t4/fig5.png', alt='Texto alternativo: Diagrama con herramientas y objetivos de la estrategia de vivienda saludable (EVS), destaca la formación de facilitadores, el uso de guías, manuales y materiales educativos para promover entornos saludables.')
+          img.p-0.mt-0(src='@/assets/curso/temas/t4/fig5.png', alt='Diagrama con herramientas y objetivos de la estrategia de vivienda saludable (EVS), destaca la formación de facilitadores, el uso de guías, manuales y materiales educativos para promover entornos saludables.')
 
     Separador  
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -270,7 +270,7 @@
         h3.mb-0.mx-3 Importancia de la participación comunitaria en la estrategia AIEPI
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
-      .col-lg-5.col-md-8.col-8
+      .col-lg-5.col-md-8.col-12
         img(src='@/assets/curso/temas/t4/img10.png', alt='')
       .col-lg-7.col-md-12.col-sm-12
         p La participación activa de la comunidad es un pilar fundamental en la implementación efectiva de la estrategia de atención integrada de enfermedades prevalentes de la infancia (AIEPI), esta estrategia busca fortalecer la promoción de la salud y la prevención de enfermedades en la infancia, pero su éxito depende en gran medida de la apropiación y compromiso de la población beneficiaria.

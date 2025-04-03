@@ -77,7 +77,7 @@
       .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
         .col-lg-9.col-sm-12.col-md-12
           .row.mb-2
-            .col-12.col-md-8.col-lg-5.p-0.bgamarillo
+            .col-12.col-md-12.col-lg-5.p-0.bgamarillo
               img(src='@/assets/curso/temas/t1/img6.png', alt='')
             .col-12.col-md-12.col-lg-7.bgmorado
               p.p-4.mt-2 Los antecedentes de las estrategias de entornos saludables (EES) se fundamentan en declaraciones y acuerdos internacionales promovidos por organismos multilaterales como la UNESCO, la organización mundial de la salud (OMS) y la organización panamericana de la salud (OPS), estas estrategias buscan fortalecer la promoción de la salud con un enfoque basado en la equidad, el desarrollo de políticas públicas saludables, la construcción de municipios saludables y sostenibles, y la participación social activa.
@@ -92,6 +92,7 @@
             | Naciones unidas en Colombia
           figure
             img(src='@/assets/curso/temas/t1/fig1.png', alt='Logos de la Organización panamericana de la salud (OPS) y la Organización mundial de la salud (OMS), la imagen incluye un mapa de américa y una vara de asclepio, con textos en azul que identifican a ambas entidades y su función como oficina regional para las américas.')
+          fitcaption Fuente: extraída de opendata.paho.org/es
 
       .row.align-items-center.mb-5.subt(data-aos="fade-right")
         .col-auto.ico

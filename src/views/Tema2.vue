@@ -173,7 +173,7 @@
       .col-sm-12.col-md-12.col-lg-5
         .row.bgmorado.borde-redondo
           p.p-4.mt-2 La organización mundial de la salud (OMS) y la organización panamericana de la salud (OPS) definen la escuela saludable como un entorno educativo donde la comunidad escolar no solo adquiere conocimientos, sino que también fomenta el desarrollo del pensamiento crítico, la afectividad y los hábitos saludables, en este espacio, se construye y reproduce la cultura, se fortalecen los valores y se promueven mejores formas de convivencia y bienestar integral.
-      .col-6.col-md-6.col-lg-3
+      .col-12.col-md-6.col-lg-3
         img(src='@/assets/curso/temas/t2/img1.png', alt='')
       .col-sm-12.col-md-12.col-lg-4
         p.mb-0 La estrategia de escuela saludable (EES) tiene como objetivo principal impulsar el desarrollo humano de los escolares mediante acciones integrales de promoción de la salud y prevención de enfermedades, tomando la escuela como un eje central de bienestar, esta estrategia busca generar entornos sostenibles para niños, niñas y jóvenes, promoviendo el desarrollo de habilidades y competencias que les permitan cuidar su salud y la de su comunidad, fortaleciendo la equidad, la inclusión y la participación activa en la construcción de un futuro más saludable.

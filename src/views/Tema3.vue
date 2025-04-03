@@ -62,7 +62,7 @@
       .col-sm-12.col-md-12.col-lg-5
         .row.bgmorado.borde-redondo
           p.p-4.mt-2 La estrategia de vivienda saludable tiene como objetivo principal mejorar las condiciones de vivienda mediante la cooperación entre los sectores nacionales y locales, tanto públicas como privadas, esta colaboración es clave para garantizar el acceso a viviendas dignas, seguras y saludables, fomentando la planificación urbana sostenible y el bienestar de la población, la articulación de esfuerzos permite la creación de entornos habitacionales que minimicen riesgos sanitarios y promuevan el acceso a servicios básicos esenciales.
-      .col-6.col-md-6.col-lg-3
+      .col-12.col-md-6.col-lg-3
         img(src='@/assets/curso/temas/t3/img1.png', alt='')
       .col-sm-12.col-md-12.col-lg-4
         .row.align-items-center
@@ -183,12 +183,11 @@
         h3.mb-0.mx-3 Acciones generales de la gestión local
 
     p.mb-2 Para la implementación efectiva de la Estrategia de vivienda saludable (EVS) a nivel local, es fundamental realizar una serie de acciones preliminares que permitan diagnosticar la situación actual de la vivienda y su entorno, estas acciones son clave para diseñar intervenciones adecuadas que garanticen un impacto positivo y sostenible.
+    p Las principales acciones a desarrollar incluyen:
 
     .row.bgespecial.align-items-center.p-2.mb-0(data-aos="fade-down")
-      p.mb-2 #[b Las principales acciones a desarrollar incluyen:]
 
       .col-lg-12.col-md-12.col-12.px-lg-5.px-4
-        .row.justify-content-center
     
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-8.col-md-10
@@ -232,7 +231,7 @@
           .col-lg-4.col-md-7.col-9
             img(src='@/assets/curso/temas/t3/img3.png', alt='')
 
-    p Una vez identificadas las condiciones locales y establecidas las bases para la intervención, es necesario estructurar la implementación de la estrategia de manera organizada, para ello, se emplea un modelo metodológico que guía el proceso de planificación, ejecución y seguimiento de las acciones de vivienda saludable, en la siguiente información se presentan las fases clave de la implementación de la EVS, las cuales integran enfoques educativos y tecnológicos para garantizar soluciones sostenibles y adaptadas a las necesidades de la comunidad.
+    p.mt-4 Una vez identificadas las condiciones locales y establecidas las bases para la intervención, es necesario estructurar la implementación de la estrategia de manera organizada, para ello, se emplea un modelo metodológico que guía el proceso de planificación, ejecución y seguimiento de las acciones de vivienda saludable, en la siguiente información se presentan las fases clave de la implementación de la EVS, las cuales integran enfoques educativos y tecnológicos para garantizar soluciones sostenibles y adaptadas a las necesidades de la comunidad.
 
     .row.align-items-center.mb-5.mt-5.subt(data-aos="fade-right")
       .col-auto.ico

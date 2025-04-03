@@ -8,7 +8,7 @@
       h1 Componente tecnológico
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
-      .col-lg-5.col-md-8.col-8
+      .col-lg-5.col-md-8.col-12
        img(src='@/assets/curso/temas/t5/img1.png', alt='')
       .col-lg-7.col-md-12.col-sm-12
        p.mb-2 El componente tecnológico en la planificación y construcción de viviendas saludables desempeña un papel crucial en la prevención de enfermedades, la sostenibilidad ambiental y la mejora de la calidad de vida de las comunidades, en la actualidad, la integración de soluciones innovadoras en el diseño arquitectónico, la selección de materiales adecuados y la implementación de tecnologías sostenibles permiten desarrollar entornos más seguros, eficientes y amigables con el medio ambiente, este enfoque no solo busca mejorar la infraestructura de las viviendas, sino también garantizar el bienestar de las familias mediante la optimización de los espacios y la reducción del impacto ambiental.
@@ -29,13 +29,13 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
       .col-lg-9.col-sm-12.col-md-12
         .row
-          .col-lg-5.col-6.col-md-8.p-0
+          .col-lg-5.col-12.col-md-8.p-0
             img(src='@/assets/curso/temas/t5/img2.png', alt='')
           .col-lg-7.col-sm-12.col-md-12.bgmorado
             p.px-4.mt-4 Para lograr una vivienda que cumpla con estos estándares, es fundamental considerar diversas estrategias que permitan la incorporación efectiva de tecnologías innovadoras en la construcción y el equipamiento del hogar, uno de los primeros pasos es la selección de materiales adecuados, priorizando aquellos que sean ecológicos y sostenibles, el uso de ladrillos de tierra comprimida, madera certificada, concreto reciclado y aislantes térmicos de bajo impacto ambiental no solo contribuye a la reducción de residuos, sino que también mejora la eficiencia energética de las viviendas.
         .row
           p.mt-4 El diseño bioclimático es otra estrategia clave, ya que permite aprovechar al máximo los recursos naturales para reducir el consumo energético, una adecuada orientación de la vivienda, la incorporación de ventilación cruzada, el uso de techos verdes y la instalación de sistemas de captación de agua lluvia son algunas de las medidas que pueden optimizar la funcionalidad de la vivienda sin incrementar los costos operativos, en este sentido, la implementación de energías renovables, como paneles solares para la generación de electricidad y calentadores solares de agua, es una alternativa viable que contribuye tanto a la economía del hogar como a la reducción de la huella de carbono.
-      .col-lg-3.col-6.col-md-6
+      .col-lg-3.col-12.col-md-6
         img(src='@/assets/curso/temas/t5/img3.png', alt='')
 
     .row.align-items-center.justify-content-center.bgmorado.borde-redondo.mb-5(data-aos="fade-left")
@@ -48,7 +48,7 @@
       .col-lg-7.col-md-12.col-sm-12
         p.mb-3 Desde la perspectiva de la seguridad y la accesibilidad, es esencial que las viviendas sean diseñadas considerando las necesidades de todos sus habitantes, la incorporación de rampas, pasamanos y accesos amplios facilita la movilidad de personas con discapacidad o adultos mayores, promoviendo su independencia y bienestar, igualmente la resistencia de las estructuras frente a eventos climáticos extremos debe ser un criterio prioritario en el diseño arquitectónico, asegurando que las viviendas puedan soportar sismos, inundaciones o fuertes vientos sin comprometer la seguridad de sus ocupantes.
         p.mb-0 El componente tecnológico también incluye un enfoque educativo y social, ya que la construcción de viviendas saludables no solo depende de la infraestructura, sino también de los hábitos de quienes las habitan, por ello, es fundamental desarrollar programas de sensibilización y capacitación comunitaria sobre el uso eficiente de la energía, la correcta disposición de residuos, la importancia de la higiene y el mantenimiento adecuado de las instalaciones. El acceso a información clara y herramientas didácticas permite a las familias adoptar prácticas sostenibles que favorecen su salud y la conservación del medio ambiente.
-      .col-lg-5.col-md-8.col-8
+      .col-lg-5.col-md-8.col-12
         img(src='@/assets/curso/temas/t5/img4.png', alt='')
 
     Separador  
@@ -117,7 +117,7 @@
       .col-lg-7.col-md-12.col-sm-12
         p.mb-3 La mejora de las condiciones habitacionales es un factor clave en la promoción de la salud y la prevención de enfermedades en la población, de acuerdo con la organización panamericana de la salud (OPS, 2010), las intervenciones en la vivienda deben estar orientadas a garantizar entornos seguros, saludables y sostenibles, priorizando tanto el bienestar de los habitantes como la protección del medio ambiente.
         p Para ello, es primordial adoptar estrategias que permitan mejorar la infraestructura de las viviendas, optimizar el uso de los recursos y fortalecer la participación comunitaria en la construcción y mantenimiento de espacios habitacionales adecuados, estas intervenciones deben considerar las condiciones socioeconómicas de las familias beneficiarias, la adaptación a los riesgos epidemiológicos locales y el cumplimiento de normativas de salud pública y desarrollo urbano.
-      .col-lg-5.col-md-8.col-8
+      .col-lg-5.col-md-8.col-12
         img(src='@/assets/curso/temas/t5/img7.png', alt='')
 
     .row.align-items-center.mb-5.subt(data-aos="fade-right")
@@ -139,7 +139,7 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
       .col-lg-5.col-md-12.col-col-sm-12.bgmorado.borde-redondo
         p.px-4.mt-3.mb-3 Para garantizar la calidad de las intervenciones, es importante contar con el apoyo de normativas y regulaciones que guíen la planificación y ejecución de proyectos de vivienda, el uso de guías RAS (reglamento de agua y saneamiento), normativas urbanísticas, políticas de subsidio y plan de ordenamiento territorial (POT) debe estar alineado con la estrategia de vivienda saludable (EVS), también es crucial que las comunidades sean capacitadas en el mantenimiento adecuado de los equipos e infraestructuras sanitarias, asegurando la sostenibilidad de las mejoras implementadas.
-      .col-lg-3.col-md-6.col-col-6
+      .col-lg-3.col-md-6.col-col-12
         img(src='@/assets/curso/temas/t5/img9.png', alt='')
       .col-lg-4.col-md-12.col-col-sm-12
         p.mt-3 En este sentido, la educación y sensibilización de los beneficiarios juega un papel fundamental en el éxito de las intervenciones, se recomienda la utilización del manual educativo “hacia una vivienda saludable: que viva mi hogar”, el cual proporciona información detallada sobre prácticas de mantenimiento, saneamiento y uso responsable de los recursos, por otra parte se debe fomentar la autoconstrucción solidaria, en la que los propios beneficiarios participen activamente en el mejoramiento de sus viviendas, promoviendo el sentido de pertenencia y la apropiación de las soluciones implementadas.
@@ -173,13 +173,13 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
       .col-lg-9.col-sm-12.col-md-12
         .row
-          .col-lg-5.col-6.col-md-8.p-0
+          .col-lg-5.col-12.col-md-8.p-0
             img(src='@/assets/curso/temas/t5/img11.png', alt='')
           .col-lg-7.col-sm-12.col-md-12.bgmorado
             p.p-4.mt-4 La formación debe incluir conocimientos sobre técnicas de construcción sostenible, gestión del agua y saneamiento, eficiencia energética, manejo de residuos y mantenimiento de infraestructuras habitacionales, también se deben incorporar módulos sobre participación comunitaria y gestión de proyectos, con el fin de empoderar a los beneficiarios y fomentar su compromiso con el desarrollo de viviendas saludables.
         .row
           p.mt-4 Es recomendable que este proceso de capacitación se realice de manera integral, combinando los aspectos educativos con la formación técnica y operativa, de esta manera, se promueve un enfoque holístico que no solo mejora las condiciones habitacionales, sino que también contribuye a la transformación social y económica de las comunidades beneficiarias.
-      .col-lg-3.col-6.col-md-6
+      .col-lg-3.col-12.col-md-6
         img(src='@/assets/curso/temas/t5/img12.png', alt='')
 
     .row.align-items-center.mb-5.subt(data-aos="fade-right")
@@ -210,7 +210,7 @@
         p Las organizaciones no gubernamentales (ONG) cumplen una función clave en la supervisión y acompañamiento del proceso, asegurando que los beneficiarios reciban el apoyo necesario para aplicar las metodologías aprendidas, estas organizaciones fomentan la organización comunitaria, asesoran en el uso adecuado de los recursos y supervisan la correcta implementación de las mejoras habitacionales.
         .row.bgmorado.borde-redondo.justify-content-center
           p.p-4.mb-0 Las universidades y centros de investigación participan en el desarrollo y validación de tecnologías innovadoras aplicables a la vivienda saludable, a través de investigaciones, diseñan soluciones que optimizan el uso de materiales sostenibles, mejoran la eficiencia energética y garantizan la durabilidad de las infraestructuras, también realizan monitoreo y evaluación del impacto de la EVS, permitiendo ajustes y mejoras en la estrategia. 
-      .col-lg-5.col-md-8.col-8
+      .col-lg-5.col-md-8.col-12
        img(src='@/assets/curso/temas/t5/img14.png', alt='')
 
     p.mb-5 El gobierno nacional también desempeña un rol esencial, proporcionando terrenos para la construcción de viviendas, regulando su uso y garantizando el cumplimiento de normativas de calidad en la edificación, Asimismo, facilita la asignación de subsidios y financiamiento para la ejecución del programa, promoviendo políticas de acceso a la vivienda digna y sostenible.
@@ -228,7 +228,7 @@
         p.py-4 Para garantizar la viabilidad de la EVS, se requiere una estructura de financiamiento que permita el acceso a recursos económicos por parte de los beneficiarios, el crédito y los subsidios de vivienda son mecanismos clave para facilitar la adquisición de materiales y la ejecución de las mejoras habitacionales, el gobierno nacional, en articulación con entidades financieras y de cooperación técnica, elabora programas de financiamiento que incluyen fondos rotativos, créditos accesibles y subsidios directos para familias de bajos ingresos.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
-      .col-lg-5.col-md-8.col-8
+      .col-lg-5.col-md-8.col-12
        img(src='@/assets/curso/temas/t5/img15.png', alt='')
       .col-lg-7.col-md-12.col-sm-12
         .row.justify-content-center
@@ -247,7 +247,7 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
       .col-lg-5.col-md-12.col-col-sm-12.bgmorado.borde-redondo
         p.px-4.mt-3.mb-3 Uno de los enfoques fundamentales de la EVS es la promoción de la autoconstrucción, un proceso mediante el cual los beneficiarios participan activamente en la edificación o mejora de sus viviendas, a través de la capacitación impartida por el SENA y el acompañamiento de ONG, los beneficiarios adquieren habilidades en construcción, mantenimiento y optimización del uso de materiales. Esta metodología fomenta la apropiación del espacio habitacional y fortalece el sentido de comunidad.
-      .col-lg-3.col-md-6.col-col-6
+      .col-lg-3.col-md-6.col-col-12
         img(src='@/assets/curso/temas/t5/img16.png', alt='')
       .col-lg-4.col-md-12.col-col-sm-12
         p.mt-3 La estrategia también incentiva el desarrollo de microempresas locales dedicadas a la producción de materiales de construcción y la prestación de servicios relacionados con la vivienda saludable. Estas iniciativas generan empleo en la comunidad, dinamizan la economía local y garantizan el acceso a insumos de calidad para la construcción, también se promueve el uso de materiales reciclados y tecnologías de bajo impacto ambiental, contribuyendo a la sostenibilidad de las intervenciones.
@@ -255,7 +255,7 @@
     p.mb-4 El mantenimiento de las viviendas es un aspecto clave en la sostenibilidad del programa. Se imparten conocimientos sobre la adecuada operación de sistemas de saneamiento, la eficiencia en el consumo de energía y la gestión de residuos sólidos, la capacitación en estos temas permite que las familias beneficiarias adopten prácticas que prolonguen la vida útil de sus viviendas y minimicen el impacto ambiental.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
-      .col-lg-5.col-md-8.col-8.p-0
+      .col-lg-5.col-md-8.col-12.p-0
         img.p-0(src='@/assets/curso/temas/t5/img17.png', alt='')
       .col-lg-7.col-md-12.col-sm-12.bgmoradomedio.p-0
         .row.mt-1
