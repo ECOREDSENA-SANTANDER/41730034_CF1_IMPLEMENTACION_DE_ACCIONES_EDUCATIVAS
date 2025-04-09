@@ -20,8 +20,8 @@
       .col-lg-10.col-sm-12.col-md-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/LXQ15V8ycwk?si=3821_luZMn1jI9Au" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video: Transformando la educación: estrategias para entornos saludables y modelos pedagógicos
 
 
 
