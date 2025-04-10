@@ -75,14 +75,14 @@
 
     .tarjeta.fondoespecial.p-3
       .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
+        .col-auto
           img(src="@/assets/curso/temas/t3/bt1.png")
         .col
           .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
+            .col
               h4.mb-1.text-white Estrategia de la Vivienda Saludable y el Módulo Escuela Saludable - 1a parte
               p.mb-0.text-white Para fortalecer el tema anteriormente plasmado, se recomienda visitar el siguiente video
-            .col-sm-auto
+            .col-auto
               a.boton.color-acento-botones(:href="obtenerLink('https://www.youtube.com/watch?v=9IE-7BszTM8')" target="_blank")
                 span Ver
                 i.fas.fa-file-download
@@ -321,7 +321,7 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
       .col-lg-9.col-sm-12.col-md-12
-        .row
+        .row.justify-content-center
           .col-lg-5.col-sm-8.col-md-8.p-0
             img(src='@/assets/curso/temas/t3/img5.png', alt='')
           .col-lg-7.col-sm-12.col-md-12.bgmorado.p-4
@@ -329,7 +329,7 @@
         .row
           p.mt-4 En paralelo, se inicia el proceso de visitas domiciliarias, donde se realiza un diagnóstico personalizado de cada familia. La primera visita familiar se centra en evaluar las condiciones actuales de la vivienda y detectar factores de riesgo para la salud y el bienestar, las siguientes visitas (segunda, tercera y cuarta) tienen un enfoque temático, abordando aspectos específicos como saneamiento, ventilación, acceso a servicios básicos y seguridad estructural, durante la quinta visita, se consolidan los hallazgos y se preparan las acciones de intervención. Finalmente, en la sexta visita domiciliaria, se lleva a cabo una evaluación individual para verificar el impacto de las mejoras implementadas.
       .col-lg-3.col-6.col-md-6
-        img(src='@/assets/curso/temas/t3/img6.png', alt='')
+        img(src='@/assets/curso/temas/t3/img6.png', alt='').d-none.d-lg-block
           
     .row.justify-content-center.align-items-start.mb-4(data-aos="fade-down")
       .col-lg-5.col-md-8.col-sm-12
@@ -346,12 +346,12 @@
       .col-lg-5.col-md-12.col-sm-12
         .row.bgmoradoclaro.borde-redondo.p-2
           p.p-3.mb-0 Las universidades y centros de investigación cumplen un rol fundamental en el desarrollo de nuevas tecnologías para la vivienda saludable, la investigación en materiales sostenibles y el seguimiento de los impactos generados por la estrategia. Finalmente, los gobiernos municipales aportan terrenos y/o ejercen funciones de fiscalización para asegurar el cumplimiento de normativas y la adecuada ejecución de los proyectos de vivienda.
-      .col-lg-3.col-md-6.col-3
+      .col-lg-3.col-md-6.col-12
         img.borde-redondo(src='@/assets/curso/temas/t3/img8.png', alt='')
       .col-lg-4.col-md-12.col-sm-12
         .row.align-items-center
           .col-auto
-            img(src='@/assets/curso/temas/t3/ico6.png', alt='')
+            img(src='@/assets/curso/temas/t3/ico6.png', alt='').d-none.d-lg-block
         .row
           p.mt-2 La implementación de la EVS concluye con una tercera reunión comunitaria, donde se realiza una evaluación colectiva de los avances, aprendizajes y desafíos del proceso, este espacio permite ajustar estrategias futuras y fortalecer la resiliencia comunitaria para garantizar la sostenibilidad de las viviendas saludables en el tiempo.
 
