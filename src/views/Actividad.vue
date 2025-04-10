@@ -258,7 +258,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        '¡Excelente trabajo! posee una buena comprensión sobre el conocimiento transformando la educación: estrategias para entornos saludables y modelos pedagógicos. ¡Felicitaciones! Ha captado con claridad exploración de movimientos de mercancías: ingreso y salida.',
+        '¡Excelente trabajo! posee una buena comprensión sobre el conocimiento transformando la educación: estrategias para entornos saludables y modelos pedagógicos.',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

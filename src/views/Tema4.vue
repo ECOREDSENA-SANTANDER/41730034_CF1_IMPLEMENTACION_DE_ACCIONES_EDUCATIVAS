@@ -256,7 +256,7 @@
               p.mb-0 Estrategias dirigidas a la reducción de la proliferación de vectores mediante el uso de mosquiteros impregnados, eliminación de criaderos y educación comunitaria sobre la identificación temprana de síntomas y acceso oportuno a tratamiento.
       .col-lg-4.mb-3.mb-md-0
         .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/t4/tar1-2.png')
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/t4/tar1-3.png')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-2
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
