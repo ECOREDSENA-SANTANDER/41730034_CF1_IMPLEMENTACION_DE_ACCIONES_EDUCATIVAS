@@ -56,12 +56,12 @@
                 figure
                   img(src='@/assets/curso/temas/t3/tab1-2.png', alt='Texto que describa la imagen')
 
-    p.mb-4.mt-0 La Estrategia de vivienda saludable no solo busca mejorar las condiciones de las viviendas individuales, sino también transformar los entornos urbanos y rurales en espacios seguros, resilientes y sostenibles, fortaleciendo la salud y el bienestar de la población.
+    p.mb-4.mt-0 La estrategia de vivienda saludable no solo busca mejorar las condiciones de las viviendas individuales, sino también transformar los entornos urbanos y rurales en espacios seguros, resilientes y sostenibles, fortaleciendo la salud y el bienestar de la población.
 
     .row.align-items-center.justify-content-center.mb-4(data-aos="fade-down")
       .col-sm-12.col-md-12.col-lg-5
         .row.bgmorado.borde-redondo
-          p.p-4.mt-2 La estrategia de vivienda saludable tiene como objetivo principal mejorar las condiciones de vivienda mediante la cooperación entre los sectores nacionales y locales, tanto públicas como privadas, esta colaboración es clave para garantizar el acceso a viviendas dignas, seguras y saludables, fomentando la planificación urbana sostenible y el bienestar de la población, la articulación de esfuerzos permite la creación de entornos habitacionales que minimicen riesgos sanitarios y promuevan el acceso a servicios básicos esenciales.
+          p.p-4.mt-2 La estrategia de vivienda saludable tiene como objetivo principal mejorar las condiciones de vivienda mediante la cooperación entre los sectores nacionales y locales, tanto públicos como privados, esta colaboración es clave para garantizar el acceso a viviendas dignas, seguras y saludables, fomentando la planificación urbana sostenible y el bienestar de la población, la articulación de esfuerzos permite la creación de entornos habitacionales que minimicen riesgos sanitarios y promuevan el acceso a servicios básicos esenciales.
       .col-12.col-md-6.col-lg-3
         img(src='@/assets/curso/temas/t3/img1.png', alt='')
       .col-sm-12.col-md-12.col-lg-4
@@ -83,7 +83,7 @@
               h4.mb-1.text-white Estrategia de la Vivienda Saludable y el Módulo Escuela Saludable - 1a parte
               p.mb-0.text-white Para fortalecer el tema anteriormente plasmado, se recomienda visitar el siguiente video
             .col-auto
-              a.boton.color-acento-botones(:href="obtenerLink('https://www.youtube.com/watch?v=9IE-7BszTM8')" target="_blank")
+              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9IE-7BszTM8" target="_blank")
                 span Ver
                 i.fas.fa-file-download
 
@@ -138,7 +138,7 @@
           .row.col-xl-11.m-auto(titulo="Aspectos educativos")
             .row.justify-content-center.align-items-center(data-aos="fade-right")
               .col-lg-12  
-                p.mb-2 La educación es clave para garantizar que las personas adopten hábitos saludables y user adecuadamente los recursos disponibles. Este componente contempla:  
+                p.mb-2 La educación es clave para garantizar que las personas adopten hábitos saludables y usen adecuadamente los recursos disponibles. Este componente contempla:  
                 ul.lista-ul--color.fa-al  
                   li   
                     i.fas.fa-check-circle  
@@ -182,7 +182,7 @@
       .col
         h3.mb-0.mx-3 Acciones generales de la gestión local
 
-    p.mb-2 Para la implementación efectiva de la Estrategia de vivienda saludable (EVS) a nivel local, es fundamental realizar una serie de acciones preliminares que permitan diagnosticar la situación actual de la vivienda y su entorno, estas acciones son clave para diseñar intervenciones adecuadas que garanticen un impacto positivo y sostenible.
+    p.mb-2 Para la implementación efectiva de la estrategia de vivienda saludable (EVS) a nivel local, es fundamental realizar una serie de acciones preliminares que permitan diagnosticar la situación actual de la vivienda y su entorno, estas acciones son clave para diseñar intervenciones adecuadas que garanticen un impacto positivo y sostenible.
     p Las principales acciones a desarrollar incluyen:
 
     .row.bgespecial.align-items-center.p-2.mb-0(data-aos="fade-down")

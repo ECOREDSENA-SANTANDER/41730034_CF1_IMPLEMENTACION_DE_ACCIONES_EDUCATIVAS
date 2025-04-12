@@ -29,19 +29,19 @@
               .row.justify-content-center.align-items-center(data-aos="fade-right")
                 .col-lg-12
                   p.mb-0 Hace referencia al espacio donde las personas interactúan activamente con su medio, incluyendo el espacio físico, biológico, ecosistema y comunidad, influyendo directamente en su bienestar y calidad de vida.
-            .row.col-xl-11.m-auto(titulo="Entornos Saludables")
+            .row.col-xl-11.m-auto(titulo="Entornos saludables")
               .row.justify-content-center.align-items-center(data-aos="fade-right")
                 .col-lg-12
                   p.mb-0 Son aquellos que favorecen la salud y brindan protección frente a factores de riesgo, permitiendo a las personas fortalecer sus capacidades, desarrollar autonomía y mejorar su calidad de vida.
-            .row.col-xl-11.m-auto(titulo="Estrategias de Entornos Saludables")
+            .row.col-xl-11.m-auto(titulo="Estrategias de entornos saludables")
               .row.justify-content-center.align-items-center(data-aos="fade-right")
                 .col-lg-12
                   p.mb-0 Busca fortalecer los territorios mediante procesos sociales que reduzcan los riesgos y potencien factores protectores en salud, especialmente en comunidades vulnerables, además, fomenta oportunidades de desarrollo sostenible y promueve condiciones seguras para la población.
-            .row.col-xl-11.m-auto(titulo="Vivienda Saludable")
+            .row.col-xl-11.m-auto(titulo="Vivienda saludable")
               .row.justify-content-center.align-items-center(data-aos="fade-right")
                 .col-lg-12
                   p.mb-0 Se refiere a un espacio de residencia que, a través de condiciones óptimas, favorece la restauración, protección y promoción de la salud, además de estimular la creatividad, el aprendizaje y el bienestar de sus habitantes.
-            .row.col-xl-11.m-auto(titulo="Escuela Saludable")
+            .row.col-xl-11.m-auto(titulo="Escuela saludable")
               .row.justify-content-center.align-items-center(data-aos="fade-right")
                 .col-lg-12
                   p.mb-0 Espacio educativo que fomenta el desarrollo integral de la comunidad, promoviendo el aprendizaje, la convivencia armónica, la construcción del conocimiento y el desarrollo de hábitos saludables, impactando positivamente en la calidad de vida de estudiantes y docentes.

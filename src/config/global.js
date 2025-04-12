@@ -109,7 +109,7 @@ export default {
           },
           {
             numero: '5.3',
-            titulo: 'Taller de Capacitación',
+            titulo: 'Taller de capacitación',
             hash: 't_5_3',
           },
         ],
@@ -122,7 +122,7 @@ export default {
         subMenu: [
           {
             numero: '6.1',
-            titulo: 'Aplicaciones de la Metodología SARAR',
+            titulo: 'Aplicaciones de la metodología SARAR',
             hash: 't_6_1',
           },
         ],

@@ -38,10 +38,7 @@
             ul.lista-ul--color.fa-al
               li.mb-0 
                 i.fas.fa-check-circle.bgvineta
-                span.mb-0 Conformación del equipo técnico de salud.        
-              li.mb-0 
-                i.fas.fa-check-circle.bgvineta
-                span.mb-0 Municipalidad (alcaldes y gobernadores).
+                span.mb-0 Municipalidad (alcaldes y gobernadores).       
               li.mb-0 
                 i.fas.fa-check-circle.bgvineta
                 span.mb-0 Comunidad (grupos comunitarios y sociales).
@@ -210,7 +207,7 @@
               p Empoderar a las comunidades para alcanzar la sostenibilidad local, fomentando su participación en la planificación y ejecución de políticas ambientales.  
           .row.align-items-center.justify-content-center  
             .col-lg  
-              p Formar y capacitar líderes ambientales, que promuevan la concienciación ecológica y la intervención en estrategias de protección y conservación del entorno.  
+              p Formar y capacitar líderes ambientales, que promuevan la conciencia ecológica y lideren iniciativas de protección y conservación del entorno. 
             .col-auto  
               figure(data-aos="zoom-in")  
                 img.d-none.d-lg-block(src='@/assets/curso/temas/t2/ps1-5.png', alt='')  
@@ -254,7 +251,7 @@
              span.mb-0 Organización panamericana de la salud (OPS) / Organización mundial de la salud (OMS).
            li.mb-2   
              i.fas.fa-shopping-cart 
-             span.mb-0Programa de las naciones unidas para el desarrollo (PNUD).
+             span.mb-0 Programa de las naciones unidas para el desarrollo (PNUD).
            li.mb-2   
              i.fas.fa-shopping-cart  
              span.mb-0 Fondo de las naciones unidas para la infancia (UNICEF).
@@ -269,7 +266,7 @@
              span.mb-0 Programa mundial de alimentos (PMA).
            li.mb-2   
              i.fas.fa-shopping-cart 
-             span.mb-0Alto comisionado de las naciones unidas para los refugiados (ACNUR).
+             span.mb-0 Alto comisionado de las naciones unidas para los refugiados (ACNUR).
        .col-lg-4.col-sm-8.col-md-8.p-0
          img(src='@/assets/curso/temas/t2/img3.png', alt='')
 
@@ -326,38 +323,38 @@
         h3.mb-0.mx-3.p-0 Metodologías e instrumentos utilizados en la ejecución de la EES
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
-      .col-lg-9.col-sm-12.col-md-12.bgmorado.p-4
-        ul.lista-ul--color.fa-al  
-          li.mb-2   
-            i.fas.fa-shopping-cart 
-            span.mb-0 Atención integral de enfermedades prevalentes de la infancia (AIEPI).
-          li.mb-2   
-            i.fas.fa-shopping-cart 
-            span.mb-0 Programa ampliado de inmunizaciones (PAI).
-          li.mb-2   
-            i.fas.fa-shopping-cart 
-            span.mb-0 Estrategia para el control integrado de enfermedades de transmisión vectorial, incluyendo la estrategia de comunicación para el cambio conductual (COMBI).
-          li.mb-2   
-            i.fas.fa-shopping-cart 
-            span.mb-0 Tratamiento acortado estrictamente supervisado para tuberculosis (DOTS/TAS).
-          li.mb-2   
-            i.fas.fa-shopping-cart 
-            span.mb-0 Sala situacional y análisis de la situación de salud (ASIS).
-          li.mb-2   
-            i.fas.fa-shopping-cart 
-            span.mb-0 Gestión integral del riesgo en salud.
-          li.mb-2   
-            i.fas.fa-shopping-cart 
-            span.mb-0 Modelo de gestión local de salud.
-          li.mb-2   
-            i.fas.fa-shopping-cart 
-            span.mb-0 Implementación de tecnologías adecuadas para la construcción de espacios de convivencia seguros, saludables y sostenibles.
-          li.mb-2   
-            i.fas.fa-shopping-cart 
-            span.mb-0 Programa comunitario “Hacia una vivienda saludable - Que viva mi hogar”.
-          li.mb-2   
-            i.fas.fa-shopping-cart 
-            span.mb-0 Estos instrumentos y metodologías permiten fortalecer la capacidad institucional y comunitaria para garantizar entornos seguros, saludables y sostenibles.
+      .col-lg-9.col-sm-12.col-md-12
+        .row.bgmorado.p-4.mb-0
+          ul.lista-ul--color.fa-al  
+            li.mb-2   
+              i.fas.fa-shopping-cart 
+              span.mb-0 Atención integral de enfermedades prevalentes de la infancia (AIEPI).
+            li.mb-2   
+              i.fas.fa-shopping-cart 
+              span.mb-0 Programa ampliado de inmunizaciones (PAI).
+            li.mb-2   
+              i.fas.fa-shopping-cart 
+              span.mb-0 Estrategia para el control integrado de enfermedades de transmisión vectorial, incluyendo la estrategia de comunicación para el cambio conductual (COMBI).
+            li.mb-2   
+              i.fas.fa-shopping-cart 
+              span.mb-0 Tratamiento acortado estrictamente supervisado para tuberculosis (DOTS/TAS).
+            li.mb-2   
+              i.fas.fa-shopping-cart 
+              span.mb-0 Sala situacional y análisis de la situación de salud (ASIS).
+            li.mb-2   
+              i.fas.fa-shopping-cart 
+              span.mb-0 Gestión integral del riesgo en salud.
+            li.mb-2   
+              i.fas.fa-shopping-cart 
+              span.mb-0 Modelo de gestión local de salud.
+            li.mb-2   
+              i.fas.fa-shopping-cart 
+              span.mb-0 Implementación de tecnologías adecuadas para la construcción de espacios de convivencia seguros, saludables y sostenibles.
+            li.mb-2   
+              i.fas.fa-shopping-cart 
+              span.mb-0 Programa comunitario “Hacia una vivienda saludable - Que viva mi hogar”.
+        .row
+          p.mt-3 Estos instrumentos y metodologías permiten fortalecer la capacidad institucional y comunitaria para garantizar entornos seguros, saludables y sostenibles.
       .col-lg-3.col-sm-6.col-md-6
         img(src='@/assets/curso/temas/t2/img4.png', alt='')
 

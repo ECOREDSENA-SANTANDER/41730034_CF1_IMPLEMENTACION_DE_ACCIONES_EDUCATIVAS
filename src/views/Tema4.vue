@@ -388,7 +388,7 @@
                 span.mb-0 Capacitación conjunta entre el personal de salud y los agentes comunitarios, favoreciendo el trabajo en equipo y la complementariedad de conocimientos.
 
     Separador  
-    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_4_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 4.3 Ejecución operativa en terreno del componente educativo
 
     .row.align-items-center.justify-content-center.bgmoradoclaro.mb-4(data-aos="fade-left")
