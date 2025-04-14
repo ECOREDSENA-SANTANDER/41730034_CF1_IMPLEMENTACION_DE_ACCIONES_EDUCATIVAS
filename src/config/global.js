@@ -320,19 +320,19 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ingrid Criollo García',
+          nombre: 'Catalina Ropero Acero',
           cargo: 'Equipo de diseño curricular',
           centro: 'Regional Distrito Capital',
         },
         {
           nombre: 'Eliana Milena Buitrago Umaña',
           cargo: 'Experta temática ',
-          centro: 'Centro de comercio y servicios – Regional Tolima',
+          centro: 'Centro de Comercio y Servicios – Regional Tolima',
         },
         {
           nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Evaluadora instruccional',
-          centro: 'Centro Agroturistico – Regional Santander',
+          centro: 'Centro Agroturístico – Regional Santander',
         },
       ],
     },

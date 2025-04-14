@@ -82,7 +82,7 @@
           ul.lista-ul--color.fa-al.px-4.mb-0  
             li   
               i.fas.fa-bell
-              span.mb-0  Análisis Problemas.
+              span.mb-0  Análisis problemas.
             li   
               i.fas.fa-bell
               span.mb-0  Inicia el proceso de participación social.
@@ -216,11 +216,11 @@
 
     .row.justify-content-center.mt-5.mb-0(data-aos="fade-down") 
       .col-lg-6.col-sm-12.col-md-12.mb-0
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-contenido.mb-0
           h5.mb-0 Figura 5. 
           |  Elementos taller EVS
-    .row.justify-content-center.mt-0.p-0(data-aos="fade-down")
-      .col-lg-12.col-sm-12.col-md-12.p-0.mt-0
+    .row.justify-content-center.bgverdeespecial.mt-0.p-0(data-aos="fade-down")
+      .col-lg-6.col-sm-12.col-md-12.p-0.mt-0
         figure
           img.p-0.mt-0(src='@/assets/curso/temas/t4/fig5.png', alt='Diagrama con herramientas y objetivos de la estrategia de vivienda saludable (EVS), destaca la formación de facilitadores, el uso de guías, manuales y materiales educativos para promover entornos saludables.')
 
@@ -232,7 +232,7 @@
       .col-auto
         img(src='@/assets/curso/temas/t4/ico3.png', alt='')
       .col
-        p.py-4 La Estrategia de atención integrada de enfermedades prevalentes de la infancia (AIEPI) es una iniciativa fundamental en la promoción de la salud infantil, que busca reducir la mortalidad y morbilidad en niños y niñas mediante intervenciones integradas en el hogar, la comunidad y los servicios de salud, su implementación en el marco del programa de vivienda saludable se centrará en la promoción de prácticas esenciales de salud a nivel familiar, seleccionadas de las 16 prácticas clave del AIEPI.
+        p.py-4 La estrategia de atención integrada de enfermedades prevalentes de la infancia (AIEPI) es una iniciativa fundamental en la promoción de la salud infantil, que busca reducir la mortalidad y morbilidad en niños y niñas mediante intervenciones integradas en el hogar, la comunidad y los servicios de salud, su implementación en el marco del programa de vivienda saludable se centrará en la promoción de prácticas esenciales de salud a nivel familiar, seleccionadas de las 16 prácticas clave del AIEPI.
 
     p.mb-4 En este contexto, la intervención se enfocará en tres prácticas fundamentales, que pueden ajustarse según el perfil epidemiológico de cada zona:
 
@@ -315,7 +315,7 @@
             img(src='@/assets/curso/temas/t4/tab1-1.png')
           .col-md-6.mb-4.mb-md-0
             h4 Capacitación de facilitadores y agentes comunitarios
-            p Es fundamental formar a los actores comunitarios que desempeñarán un rol activo en la promoción de las prácticas clave de la AIEPI, Para ello, se deben desarrollar programas de capacitación que les proporcionen las herramientas, conocimientos y metodologías necesarias para trabajar con las familias, algunos de los temas clave a abordar en estas capacitaciones incluyen:        
+            p Es fundamental formar a los actores comunitarios que desempeñarán un rol activo en la promoción de las prácticas clave de la AIEPI. Para ello, se deben desarrollar programas de capacitación que les proporcionen las herramientas, conocimientos y metodologías necesarias para trabajar con las familias, algunos de los temas clave a abordar en estas capacitaciones incluyen:        
             ul.lista-ul--color.fa-al  
               li.mb-0   
                 i.fas.fa-check-circle

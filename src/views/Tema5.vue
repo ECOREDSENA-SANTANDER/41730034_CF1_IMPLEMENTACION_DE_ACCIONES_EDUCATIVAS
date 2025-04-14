@@ -53,7 +53,7 @@
 
     Separador  
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 5.1 Elementos de análisis para la implementación de la Estrategia de Vivienda Saludable (EVS)
+      h2 5.1 Elementos de análisis para la implementación de la estrategia de vivienda saludable (EVS)
 
     .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
@@ -213,7 +213,7 @@
       .col-lg-5.col-md-8.col-12
        img(src='@/assets/curso/temas/t5/img14.png', alt='')
 
-    p.mb-5 El gobierno nacional también desempeña un rol esencial, proporcionando terrenos para la construcción de viviendas, regulando su uso y garantizando el cumplimiento de normativas de calidad en la edificación, Asimismo, facilita la asignación de subsidios y financiamiento para la ejecución del programa, promoviendo políticas de acceso a la vivienda digna y sostenible.
+    p.mb-5 El gobierno nacional también desempeña un rol esencial, proporcionando terrenos para la construcción de viviendas, regulando su uso y garantizando el cumplimiento de normativas de calidad en la edificación. Asimismo, facilita la asignación de subsidios y financiamiento para la ejecución del programa, promoviendo políticas de acceso a la vivienda digna y sostenible.
 
     .row.align-items-center.mb-5.subt(data-aos="fade-right")
       .col-auto.ico
