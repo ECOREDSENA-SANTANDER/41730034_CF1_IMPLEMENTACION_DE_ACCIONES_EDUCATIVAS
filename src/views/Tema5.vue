@@ -60,7 +60,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/t5/img5.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La Implementación de la Estrategia de vivienda saludable (EVS) requiere un análisis integral de diversos factores que influyen en la seguridad, el bienestar y la salud de las familias en sus hogares. De acuerdo con las directrices del ministerio de salud y protección social (2010), es fundamental identificar y evaluar amenazas, vulnerabilidades y riesgos asociados a las condiciones habitacionales para diseñar soluciones técnicas sostenibles y participativas, este análisis debe considerar aspectos físicos, socioeconómicos y ambientales, permitiendo la priorización de intervenciones y la mitigación de riesgos que puedan afectar la calidad de vida de la comunidad.
+        p.mb-0 La implementación de la estrategia de vivienda saludable (EVS) requiere un análisis integral de diversos factores que influyen en la seguridad, el bienestar y la salud de las familias en sus hogares. De acuerdo con las directrices del ministerio de salud y protección social (2010), es fundamental identificar y evaluar amenazas, vulnerabilidades y riesgos asociados a las condiciones habitacionales para diseñar soluciones técnicas sostenibles y participativas, este análisis debe considerar aspectos físicos, socioeconómicos y ambientales, permitiendo la priorización de intervenciones y la mitigación de riesgos que puedan afectar la calidad de vida de la comunidad.
 
     .row.justify-content-center.align-items-center.mt-5
       .col-3.col-md-6.col-lg-3
