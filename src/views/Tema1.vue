@@ -116,7 +116,7 @@
             h5 Figura 2. 
             | Actores estratégicos de EES
           figure
-            img(src='@/assets/curso/temas/t1/fig2.png', alt='Mapa conceptual de los actores de la Estrategia de entornos saludables (EES), que muestra la relación entre entidades como ministerios, instituciones educativas y organizaciones sociales en la promoción de entornos saludables.')
+            img(src='@/assets/curso/temas/t1/fig2.png', alt='Mapa conceptual de los actores de la estrategia de entornos saludables (EES), que muestra la relación entre entidades como ministerios, instituciones educativas y organizaciones sociales en la promoción de entornos saludables.')
 
 
 

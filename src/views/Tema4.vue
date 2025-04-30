@@ -21,7 +21,7 @@
       .col-lg-4.col-md-6.col-12
         img(src='@/assets/curso/temas/t4/img2.png', alt='')
       .col-lg-8.col-md-12.col-sm-12
-        ul.lista-ul--color.lista-ul--separador.pequeno2.mb-0
+        ul.lista-ul--color.lista-ul--separador.fa-al.pequeno2.mb-0
           li.mb-0 
             i.fas.fa-check-circle
             | Proporcionar herramientas operativas a los entes territoriales para la ejecución de la estrategia de vivienda saludable en sus comunidades.
@@ -163,7 +163,7 @@
       .col-lg-4.col-md-6.col-12
         img(src='@/assets/curso/temas/t4/img8.png', alt='')
       .col-lg-8.col-md-12.col-sm-12.mb-0
-        ul.lista-ul--color.lista-ul--separador.pequeno.mt-3
+        ul.lista-ul--color.lista-ul--separador.fa-al.pequeno.mt-3
           li.mb-0 
             i.fas.fa-check-circle
             | Instrumentos de caracterización para el diagnóstico de condiciones de salud y vivienda de las familias beneficiarias.

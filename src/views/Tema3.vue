@@ -183,7 +183,7 @@
         h3.mb-0.mx-3 Acciones generales de la gestión local
 
     p.mb-2 Para la implementación efectiva de la estrategia de vivienda saludable (EVS) a nivel local, es fundamental realizar una serie de acciones preliminares que permitan diagnosticar la situación actual de la vivienda y su entorno, estas acciones son clave para diseñar intervenciones adecuadas que garanticen un impacto positivo y sostenible.
-    p Las principales acciones a desarrollar incluyen:
+    p #[b Las principales acciones a desarrollar incluyen:]
 
     .row.bgespecial.align-items-center.p-2.mb-0(data-aos="fade-down")
 
