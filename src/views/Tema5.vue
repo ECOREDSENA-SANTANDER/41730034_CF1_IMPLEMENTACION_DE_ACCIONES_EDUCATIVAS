@@ -53,14 +53,14 @@
 
     Separador  
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 5.1 Elementos de análisis para la implementación de la estrategia de vivienda saludable (EVS)
+      h2 5.1 Elementos de análisis para la implementación de la Estrategia de Vivienda Saludable (EVS)
 
     .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/t5/img5.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La implementación de la estrategia de vivienda saludable (EVS) requiere un análisis integral de diversos factores que influyen en la seguridad, el bienestar y la salud de las familias en sus hogares. De acuerdo con las directrices del ministerio de salud y protección social (2010), es fundamental identificar y evaluar amenazas, vulnerabilidades y riesgos asociados a las condiciones habitacionales para diseñar soluciones técnicas sostenibles y participativas, este análisis debe considerar aspectos físicos, socioeconómicos y ambientales, permitiendo la priorización de intervenciones y la mitigación de riesgos que puedan afectar la calidad de vida de la comunidad.
+        p.mb-0 La implementación de la Estrategia de Vivienda Saludable (EVS) requiere un análisis integral de diversos factores que influyen en la seguridad, el bienestar y la salud de las familias en sus hogares. De acuerdo con las directrices del ministerio de salud y protección social (2010), es fundamental identificar y evaluar amenazas, vulnerabilidades y riesgos asociados a las condiciones habitacionales para diseñar soluciones técnicas sostenibles y participativas, este análisis debe considerar aspectos físicos, socioeconómicos y ambientales, permitiendo la priorización de intervenciones y la mitigación de riesgos que puedan afectar la calidad de vida de la comunidad.
 
     .row.justify-content-center.align-items-center.mt-5
       .col-3.col-md-6.col-lg-3
@@ -115,7 +115,7 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
       .col-lg-7.col-md-12.col-sm-12
-        p.mb-3 La mejora de las condiciones habitacionales es un factor clave en la promoción de la salud y la prevención de enfermedades en la población, de acuerdo con la organización panamericana de la salud (OPS, 2010), las intervenciones en la vivienda deben estar orientadas a garantizar entornos seguros, saludables y sostenibles, priorizando tanto el bienestar de los habitantes como la protección del medio ambiente.
+        p.mb-3 La mejora de las condiciones habitacionales es un factor clave en la promoción de la salud y la prevención de enfermedades en la población, de acuerdo con la Organización Panamericana de la Salud (OPS, 2010), las intervenciones en la vivienda deben estar orientadas a garantizar entornos seguros, saludables y sostenibles, priorizando tanto el bienestar de los habitantes como la protección del medio ambiente.
         p Para ello, es primordial adoptar estrategias que permitan mejorar la infraestructura de las viviendas, optimizar el uso de los recursos y fortalecer la participación comunitaria en la construcción y mantenimiento de espacios habitacionales adecuados, estas intervenciones deben considerar las condiciones socioeconómicas de las familias beneficiarias, la adaptación a los riesgos epidemiológicos locales y el cumplimiento de normativas de salud pública y desarrollo urbano.
       .col-lg-5.col-md-8.col-12
         img(src='@/assets/curso/temas/t5/img7.png', alt='')
@@ -138,7 +138,7 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
       .col-lg-5.col-md-12.col-col-sm-12.bgmorado.borde-redondo
-        p.px-4.mt-3.mb-3 Para garantizar la calidad de las intervenciones, es importante contar con el apoyo de normativas y regulaciones que guíen la planificación y ejecución de proyectos de vivienda, el uso de guías RAS (reglamento de agua y saneamiento), normativas urbanísticas, políticas de subsidio y plan de ordenamiento territorial (POT) debe estar alineado con la estrategia de vivienda saludable (EVS), también es crucial que las comunidades sean capacitadas en el mantenimiento adecuado de los equipos e infraestructuras sanitarias, asegurando la sostenibilidad de las mejoras implementadas.
+        p.px-4.mt-3.mb-3 Para garantizar la calidad de las intervenciones, es importante contar con el apoyo de normativas y regulaciones que guíen la planificación y ejecución de proyectos de vivienda, el uso de guías RAS (Reglamento de Agua y Saneamiento), normativas urbanísticas, políticas de subsidio y Plan de Ordenamiento Territorial (POT) debe estar alineado con la Estrategia de Vivienda Saludable (EVS), también es crucial que las comunidades sean capacitadas en el mantenimiento adecuado de los equipos e infraestructuras sanitarias, asegurando la sostenibilidad de las mejoras implementadas.
       .col-lg-3.col-md-6.col-col-12
         img(src='@/assets/curso/temas/t5/img9.png', alt='')
       .col-lg-4.col-md-12.col-col-sm-12
@@ -158,7 +158,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-lg-7.col-md-12.col-sm-12
-        p.mb-2 Para la implementación efectiva de la estrategia de vivienda saludable (EVS), es fundamental contar con recursos humanos capacitados y con una infraestructura adecuada, de acuerdo con las recomendaciones de la organización panamericana de la salud (OPS, 2010), la metodología debe fomentar una amplia participación de la comunidad en todas las fases del proyecto.
+        p.mb-2 Para la implementación efectiva de la Estrategia de Vivienda Saludable (EVS), es fundamental contar con recursos humanos capacitados y con una infraestructura adecuada, de acuerdo con las recomendaciones de la Organización Panamericana de la Salud (OPS, 2010), la metodología debe fomentar una amplia participación de la comunidad en todas las fases del proyecto.
         p.mb-2 Se recomienda priorizar la selección de personas beneficiarias o residentes de la región donde se desarrolla la intervención, asegurando que los candidatos estén disponibles y cuenten con habilidades en construcción, equipamiento sanitario y gestión de recursos, esto facilita la creación de microempresas locales dedicadas a la fabricación de materiales de construcción sostenibles, instalación de sistemas sanitarios y mantenimiento de viviendas, lo que a su vez genera empleo y fortalece la economía local.
         p Desde el punto de vista de la infraestructura, es crucial garantizar la disponibilidad de espacios adecuados para la formación y ejecución de actividades, así como la provisión de herramientas, equipos y materiales necesarios para el desarrollo del proyecto, la implementación de tecnologías sostenibles y accesibles también juega un papel clave en la optimización de recursos y en la reducción del impacto ambiental.
       .col-lg-5.col-md-8.col-8
@@ -168,7 +168,7 @@
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 5.3. Taller de capacitación
 
-    p.mb-4 Para fortalecer la aplicación de la estrategia de vivienda saludable (EVS) a nivel nacional, se plantea la necesidad de establecer programas de capacitación técnica y educativa, dirigidos tanto a los beneficiarios como a los actores involucrados en la ejecución del proyecto, con el objetivo de garantizar una implementación eficiente, se propone la articulación con instituciones de formación como el servicio nacional de aprendizaje (SENA), que ha desempeñado un papel fundamental en la capacitación en el componente educativo.
+    p.mb-4 Para fortalecer la aplicación de la Estrategia de Vivienda Saludable (EVS) a nivel nacional, se plantea la necesidad de establecer programas de capacitación técnica y educativa, dirigidos tanto a los beneficiarios como a los actores involucrados en la ejecución del proyecto, con el objetivo de garantizar una implementación eficiente, se propone la articulación con instituciones de formación como el Servicio Nacional de Aprendizaje (SENA), que ha desempeñado un papel fundamental en la capacitación en el componente educativo.
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
       .col-lg-9.col-sm-12.col-md-12
@@ -186,14 +186,14 @@
       .col-auto.ico
         img(src='@/assets/curso/temas/subt.svg', alt='')
       .col
-        h3.mb-0.mx-3 Programa de formación: implementación de la estrategia de vivienda saludable (EVS)
+        h3.mb-0.mx-3 Programa de formación: implementación de la Estrategia de Vivienda Saludable (EVS)
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/t5/img13.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La estrategia de vivienda saludable (EVS) busca mejorar las condiciones habitacionales de comunidades vulnerables mediante la integración de diversos actores institucionales, la capacitación técnica y el fomento de la autoconstrucción, la ejecución de esta estrategia requiere una metodología social basada en la cooperación entre el sector público, organizaciones no gubernamentales, entidades financieras, centros de investigación y la comunidad beneficiaria.
+        p.mb-0 La Estrategia de Vivienda Saludable (EVS) busca mejorar las condiciones habitacionales de comunidades vulnerables mediante la integración de diversos actores institucionales, la capacitación técnica y el fomento de la autoconstrucción, la ejecución de esta estrategia requiere una metodología social basada en la cooperación entre el sector público, organizaciones no gubernamentales, entidades financieras, centros de investigación y la comunidad beneficiaria.
         br
         br
         | El enfoque de este programa de formación está diseñado para proporcionar conocimientos y herramientas prácticas que permitan la implementación efectiva de la EVS, a través de la capacitación, se fortalecerán las competencias de los beneficiarios, promoviendo su participación activa en el proceso de construcción y mejora de sus viviendas, mientras que las entidades aliadas brindarán apoyo en términos de financiamiento, asistencia técnica y supervisión del proyecto. 
@@ -206,8 +206,8 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-lg-7.col-md-12.col-sm-12
-        p.mb-2 El éxito de la estrategia depende de la articulación entre diversas instituciones y la comunidad, el servicio nacional de aprendizaje (SENA) juega un papel fundamental en la formación técnica de los beneficiarios, proporcionándoles conocimientos en construcción sostenible, eficiencia energética, saneamiento básico y manejo de recursos naturales. Su objetivo es capacitar a las comunidades en la autoconstrucción y en el mantenimiento de viviendas saludables.
-        p Las organizaciones no gubernamentales (ONG) cumplen una función clave en la supervisión y acompañamiento del proceso, asegurando que los beneficiarios reciban el apoyo necesario para aplicar las metodologías aprendidas, estas organizaciones fomentan la organización comunitaria, asesoran en el uso adecuado de los recursos y supervisan la correcta implementación de las mejoras habitacionales.
+        p.mb-2 El éxito de la estrategia depende de la articulación entre diversas instituciones y la comunidad, el Servicio Nacional de aAprendizaje (SENA) juega un papel fundamental en la formación técnica de los beneficiarios, proporcionándoles conocimientos en construcción sostenible, eficiencia energética, saneamiento básico y manejo de recursos naturales. Su objetivo es capacitar a las comunidades en la autoconstrucción y en el mantenimiento de viviendas saludables.
+        p Las Organizaciones No Gubernamentales (ONG) cumplen una función clave en la supervisión y acompañamiento del proceso, asegurando que los beneficiarios reciban el apoyo necesario para aplicar las metodologías aprendidas, estas organizaciones fomentan la organización comunitaria, asesoran en el uso adecuado de los recursos y supervisan la correcta implementación de las mejoras habitacionales.
         .row.bgmorado.borde-redondo.justify-content-center
           p.p-4.mb-0 Las universidades y centros de investigación participan en el desarrollo y validación de tecnologías innovadoras aplicables a la vivienda saludable, a través de investigaciones, diseñan soluciones que optimizan el uso de materiales sostenibles, mejoran la eficiencia energética y garantizan la durabilidad de las infraestructuras, también realizan monitoreo y evaluación del impacto de la EVS, permitiendo ajustes y mejoras en la estrategia. 
       .col-lg-5.col-md-8.col-12

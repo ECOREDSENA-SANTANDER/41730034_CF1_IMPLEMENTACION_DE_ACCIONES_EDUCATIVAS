@@ -169,13 +169,13 @@
     .row.align-items-center.justify-content-center.mb-4(data-aos="fade-right")
       .col-sm-12.col-md-12.col-lg-5
         .row.bgmorado.borde-redondo
-          p.p-4.mt-2 La organización mundial de la salud (OMS) y la organización panamericana de la salud (OPS) definen la escuela saludable como un entorno educativo donde la comunidad escolar no solo adquiere conocimientos, sino que también fomenta el desarrollo del pensamiento crítico, la afectividad y los hábitos saludables, en este espacio, se construye y reproduce la cultura, se fortalecen los valores y se promueven mejores formas de convivencia y bienestar integral.
+          p.p-4.mt-2 La Organización Mundial de la Salud (OMS) y la Organización Panamericana de la Salud (OPS) definen la escuela saludable como un entorno educativo donde la comunidad escolar no solo adquiere conocimientos, sino que también fomenta el desarrollo del pensamiento crítico, la afectividad y los hábitos saludables, en este espacio, se construye y reproduce la cultura, se fortalecen los valores y se promueven mejores formas de convivencia y bienestar integral.
       .col-12.col-md-6.col-lg-3
         img(src='@/assets/curso/temas/t2/img1.png', alt='')
       .col-sm-12.col-md-12.col-lg-4
-        p.mb-0 La estrategia de escuela saludable (EES) tiene como objetivo principal impulsar el desarrollo humano de los escolares mediante acciones integrales de promoción de la salud y prevención de enfermedades, tomando la escuela como un eje central de bienestar, esta estrategia busca generar entornos sostenibles para niños, niñas y jóvenes, promoviendo el desarrollo de habilidades y competencias que les permitan cuidar su salud y la de su comunidad, fortaleciendo la equidad, la inclusión y la participación activa en la construcción de un futuro más saludable.
+        p.mb-0 La Estrategia de Escuela Saludable (EES) tiene como objetivo principal impulsar el desarrollo humano de los escolares mediante acciones integrales de promoción de la salud y prevención de enfermedades, tomando la escuela como un eje central de bienestar, esta estrategia busca generar entornos sostenibles para niños, niñas y jóvenes, promoviendo el desarrollo de habilidades y competencias que les permitan cuidar su salud y la de su comunidad, fortaleciendo la equidad, la inclusión y la participación activa en la construcción de un futuro más saludable.
 
-    p.mb-0 La organización panamericana de la salud (OPS) establece una serie de objetivos clave para fortalecer la atención primaria ambiental, alineados con los principios del desarrollo sostenible y la gestión ambiental eficiente. Estos objetivos incluyen:
+    p.mb-0 La Organización Panamericana de la Salud (OPS) establece una serie de objetivos clave para fortalecer la atención primaria ambiental, alineados con los principios del desarrollo sostenible y la gestión ambiental eficiente. Estos objetivos incluyen:
 
   .container.tarjeta.tarjeta--blanca.fondotema2.p-md-5.borde-recto
     .row.align-items-center.justify-content-center.mb-4
@@ -216,7 +216,7 @@
               figure(data-aos="zoom-in")  
                 img.d-none.d-lg-block(src='@/assets/curso/temas/t2/ps1-6.png', alt='')  
             .col-lg  
-              p Facilitar la cooperación entre el sector público, la sociedad civil y el sector privado, con el fin de establecer compromisos y estrategias alineadas con los objetivos de desarrollo sostenible (ODS).  
+              p Facilitar la cooperación entre el sector público, la sociedad civil y el sector privado, con el fin de establecer compromisos y estrategias alineadas con los Objetivos de Desarrollo Sostenible (ODS).  
           .row.align-items-center.justify-content-center  
             .col-lg  
               p Fomentar el apoyo estatal a iniciativas ambientales locales, priorizando intervenciones públicas en la protección de la salud humana y la conservación del medio ambiente.  
@@ -230,15 +230,15 @@
       .col-auto
         img(src='@/assets/curso/temas/t2/ico2.png', alt='').d-none.d-lg-block
       .col
-        p.py-3.mb-0 Según la organización panamericana de la salud (OPS) y la Organización mundial de la salud (OMS), el trabajo en los entornos constituye una oportunidad clave para la acción intersectorial, dado que se trata de un proceso complejo que demanda movilización social y una gestión política efectiva, es fundamental contar con el compromiso y la participación activa de diversos actores, estos incluyen organismos gubernamentales, instituciones académicas, el sector privado, organizaciones de la sociedad civil y la comunidad en general, cuya cooperación es esencial para la implementación y sostenibilidad de las estrategias, a continuación se describen los actores.
+        p.py-3.mb-0 Según la Organización Panamericana de la Salud (OPS) y la Organización Mundial de la Salud (OMS), el trabajo en los entornos constituye una oportunidad clave para la acción intersectorial, dado que se trata de un proceso complejo que demanda movilización social y una gestión política efectiva, es fundamental contar con el compromiso y la participación activa de diversos actores, estos incluyen organismos gubernamentales, instituciones académicas, el sector privado, organizaciones de la sociedad civil y la comunidad en general, cuya cooperación es esencial para la implementación y sostenibilidad de las estrategias, a continuación se describen los actores.
 
     .row.align-items-center.mb-5.subt(data-aos="fade-right")
       .col-auto.ico
         img(src='@/assets/curso/temas/subt.svg', alt='')
       .col
-        h3.mb-0.mx-3 Actores en la ejecución de la estrategia de entornos saludables (EES)
+        h3.mb-0.mx-3 Actores en la ejecución de la Estrategia de Entornos Saludables (EES)
 
-    p.mb-4 La ejecución de la estrategia de entornos saludables (EES) requiere la participación de diversos actores a nivel internacional, nacional, departamental, local y comunitario, a continuación, se presentan los principales actores involucrados en cada nivel:
+    p.mb-4 La ejecución de la Estrategia de Entornos Saludables (EES) requiere la participación de diversos actores a nivel internacional, nacional, departamental, local y comunitario, a continuación, se presentan los principales actores involucrados en cada nivel:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
        .col-lg-3.col-6.col-md-6
@@ -248,25 +248,25 @@
          ul.lista-ul--color.fa-al  
            li.mb-2   
              i.fas.fa-shopping-cart 
-             span.mb-0 Organización panamericana de la salud (OPS) / Organización mundial de la salud (OMS).
+             span.mb-0 Organización Panamericana de la Salud (OPS) / Organización Mundial de la Salud (OMS).
            li.mb-2   
              i.fas.fa-shopping-cart 
-             span.mb-0 Programa de las naciones unidas para el desarrollo (PNUD).
+             span.mb-0 Programa de las Naciones Unidas para el Desarrollo (PNUD).
            li.mb-2   
              i.fas.fa-shopping-cart  
-             span.mb-0 Fondo de las naciones unidas para la infancia (UNICEF).
+             span.mb-0 Fondo de las Naciones Unidas para la Infancia (UNICEF).
            li.mb-2   
              i.fas.fa-shopping-cart 
-             span.mb-0 Fondo de población de las naciones unidas (UNFPA).
+             span.mb-0 Fondo de Población de las Naciones Unidas (UNFPA).
            li.mb-2   
              i.fas.fa-shopping-cart 
-             span.mb-0 Organización internacional para las migraciones (OIM).
+             span.mb-0 Organización Internacional para las Migraciones (OIM).
            li.mb-2   
              i.fas.fa-shopping-cart 
-             span.mb-0 Programa mundial de alimentos (PMA).
+             span.mb-0 Programa Mundial de Alimentos (PMA).
            li.mb-2   
              i.fas.fa-shopping-cart 
-             span.mb-0 Alto comisionado de las naciones unidas para los refugiados (ACNUR).
+             span.mb-0 Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR).
        .col-lg-4.col-sm-8.col-md-8.p-0
          img(src='@/assets/curso/temas/t2/img3.png', alt='')
 
@@ -278,21 +278,21 @@
                 .row.justify-content-center.align-items-center
                   .col-sm-12.col-md-12.col-lg-6
                     h3.mt-4 Nivel nacional
-                    p.mb-4 Entidades gubernamentales, ministerios de: protección social, educación nacional, ambiente, vivienda y desarrollo territorial; otras entidades: acción social, servicio nacional de aprendizaje (SENA), Instituto colombiano de bienestar familiar (ICBF), departamento nacional de planeación (DNP), federación nacional de departamentos, federación nacional de municipios, Corporación colombiana de secretarios municipales y distritales de salud (COSESAM).
+                    p.mb-4 Entidades gubernamentales, ministerios de: protección social, educación nacional, ambiente, vivienda y desarrollo territorial; otras entidades: acción social, Servicio Nacional de Aprendizaje (SENA), Instituto Colombiano de Bienestar Familiar (ICBF), Departamento Nacional de Planeación (DNP), federación nacional de departamentos, federación nacional de municipios, Corporación Colombiana de Secretarios Municipales y Distritales de Salud (COSESAM).
                   .col-1
                   .col-6.col-md-6.col-lg-4
                     img.mt-5(src='@/assets/curso/temas/t2/sly1-1.png' alt='')
                 .row.justify-content-center.align-items-center
                   .col-sm-12.col-md-12.col-lg-6
                     h3.mt-4 Nivel departamental
-                    p.mb-4 Gobernador (autoridad departamental) y secretarías departamentales y distritales: salud, educación, secretarías de obras y planeación, regionales del sena, corporaciones y organizaciones no gubernamentales (ONG), instituciones educativas.
+                    p.mb-4 Gobernador (autoridad departamental) y secretarías departamentales y distritales: salud, educación, secretarías de obras y planeación, regionales del sena, corporaciones y Organizaciones No Gubernamentales (ONG), instituciones educativas.
                   .col-1
                   .col-6.col-md-6.col-lg-4
                     img.mt-5(src='@/assets/curso/temas/t2/sly1-2.png' alt='')
                 .row.justify-content-center.align-items-center
                   .col-sm-12.col-md-12.col-lg-6
                     h3.mt-4 Nivel local
-                    p.mb-4 Alcalde (autoridad municipal) y secretarías municipales: salud, educación, planeación, bienestar social, obras públicas, regionales del sena, organizaciones no gubernamentales (ONG), instituciones educativas, empresas públicas y privadas.
+                    p.mb-4 Alcalde (autoridad municipal) y secretarías municipales: salud, educación, planeación, bienestar social, obras públicas, regionales del sena, Organizaciones No Gubernamentales (ONG), instituciones educativas, empresas públicas y privadas.
                   .col-1
                   .col-6.col-md-6.col-lg-4
                     img.mt-5(src='@/assets/curso/temas/t2/sly1-3.png' alt='')
@@ -312,9 +312,9 @@
       .col-auto
         img(src='@/assets/curso/temas/t2/ico3.png', alt='')
       .col
-        p.py-3.mb-0 El comité técnico nacional para entornos saludables (CTNES) tiene como función principal apoyar a las autoridades departamentales, distritales y municipales en el desarrollo e implementación de metodologías e instrumentos normativos para la promoción de entornos saludables, esto se logra mediante la difusión y aplicación de herramientas diseñadas por las entidades que conforman el comité, garantizando un enfoque integral y basado en la evidencia.
+        p.py-3.mb-0 El Comité Técnico Nacional para Entornos Saludables (CTNES) tiene como función principal apoyar a las autoridades departamentales, distritales y municipales en el desarrollo e implementación de metodologías e instrumentos normativos para la promoción de entornos saludables, esto se logra mediante la difusión y aplicación de herramientas diseñadas por las entidades que conforman el comité, garantizando un enfoque integral y basado en la evidencia.
 
-    p.mb-5 Para la ejecución de la estrategia de entornos saludables (EES), se han desarrollado diversas metodologías e instrumentos que permiten fortalecer la gestión en salud y la promoción de entornos sostenibles, entre ellos se destacan los siguientes:
+    p.mb-5 Para la ejecución de la Estrategia de Entornos Saludables (EES), se han desarrollado diversas metodologías e instrumentos que permiten fortalecer la gestión en salud y la promoción de entornos sostenibles, entre ellos se destacan los siguientes:
 
     .row.align-items-center.mb-5.subt(data-aos="fade-right")
       .col-auto.ico
@@ -328,19 +328,19 @@
           ul.lista-ul--color.fa-al  
             li.mb-2   
               i.fas.fa-shopping-cart 
-              span.mb-0 Atención integral de enfermedades prevalentes de la infancia (AIEPI).
+              span.mb-0 Atención Integral de Enfermedades Prevalentes de la Infancia (AIEPI).
             li.mb-2   
               i.fas.fa-shopping-cart 
-              span.mb-0 Programa ampliado de inmunizaciones (PAI).
+              span.mb-0 Programa Ampliado de Inmunizaciones (PAI).
             li.mb-2   
               i.fas.fa-shopping-cart 
-              span.mb-0 Estrategia para el control integrado de enfermedades de transmisión vectorial, incluyendo la estrategia de comunicación para el cambio conductual (COMBI).
+              span.mb-0 Estrategia para el control integrado de enfermedades de transmisión vectorial, incluyendo la estrategia de Comunicación para el Cambio Conductual (COMBI).
             li.mb-2   
               i.fas.fa-shopping-cart 
-              span.mb-0 Tratamiento acortado estrictamente supervisado para tuberculosis (DOTS/TAS).
+              span.mb-0 Tratamiento Acortado Estrictamente Supervisado para Tuberculosis (DOTS/TAS).
             li.mb-2   
               i.fas.fa-shopping-cart 
-              span.mb-0 Sala situacional y análisis de la situación de salud (ASIS).
+              span.mb-0 Sala Situacional y Análisis de la Situación de Salud (ASIS).
             li.mb-2   
               i.fas.fa-shopping-cart 
               span.mb-0 Gestión integral del riesgo en salud.
@@ -366,7 +366,7 @@
     .row.justify-content-center.mb-3(data-aos="fade-down") 
       .col-lg-12.col-sm-12.col-md-12
         figure
-          img(src='@/assets/curso/temas/t2/fig3.png', alt='Diagrama de metodología e instrumentos de la Estrategia de entornos saludables (EES). presenta diversas herramientas como el modelo de gestión local de salud, la gestión integral del riesgo, programas de inmunización y control de enfermedades, estrategias de comunicación para el cambio conductual, tecnologías para entornos saludables y Análisis de la situación de salud (ASIS).')
+          img(src='@/assets/curso/temas/t2/fig3.png', alt='Diagrama de metodología e instrumentos de la Estrategia de Entornos Saludables (EES). presenta diversas herramientas como el modelo de gestión local de salud, la gestión integral del riesgo, programas de inmunización y control de enfermedades, estrategias de comunicación para el cambio conductual, tecnologías para entornos saludables y Análisis de la situación de salud (ASIS).')
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-down")
       .bloque-texto-g__img(

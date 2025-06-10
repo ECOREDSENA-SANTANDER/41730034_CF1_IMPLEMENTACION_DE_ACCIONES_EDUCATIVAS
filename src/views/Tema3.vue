@@ -111,7 +111,7 @@
                     span.mb-0 Aplicación de normativas y guías de construcción de viviendas a nivel nacional y local.
                   li 
                     i.fas.fa-check-circle
-                    span.mb-0 Implementación de reglamentos de agua y saneamiento (RAS), asegurando la calidad y accesibilidad de los servicios básicos.
+                    span.mb-0 Implementación de Reglamentos de Agua y Saneamiento (RAS), asegurando la calidad y accesibilidad de los servicios básicos.
                   li 
                     i.fas.fa-check-circle
                     span.mb-0 Fomento de políticas públicas para el acceso a viviendas dignas, con especial énfasis en poblaciones vulnerables.
@@ -182,7 +182,7 @@
       .col
         h3.mb-0.mx-3 Acciones generales de la gestión local
 
-    p.mb-2 Para la implementación efectiva de la estrategia de vivienda saludable (EVS) a nivel local, es fundamental realizar una serie de acciones preliminares que permitan diagnosticar la situación actual de la vivienda y su entorno, estas acciones son clave para diseñar intervenciones adecuadas que garanticen un impacto positivo y sostenible.
+    p.mb-2 Para la implementación efectiva de la Estrategia de Vivienda Saludable (EVS) a nivel local, es fundamental realizar una serie de acciones preliminares que permitan diagnosticar la situación actual de la vivienda y su entorno, estas acciones son clave para diseñar intervenciones adecuadas que garanticen un impacto positivo y sostenible.
     p #[b Las principales acciones a desarrollar incluyen:]
 
     .row.bgespecial.align-items-center.p-2.mb-0(data-aos="fade-down")
@@ -205,7 +205,7 @@
                     img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/temas/t3/ico_sly1-2.png' alt='AvatarTop')
                 .bgacentocontenido
                   h4.text-center.p-1 Fortalecimiento de redes de apoyo social
-                p.mb-0.text-center.mt-2(data-aos="fade-right") Mapear y articular grupos comunitarios, organizaciones no gubernamentales (ONG) y líderes locales que faciliten el proceso de implementación.  
+                p.mb-0.text-center.mt-2(data-aos="fade-right") Mapear y articular grupos comunitarios, Organizaciones No Gubernamentales (ONG) y líderes locales que faciliten el proceso de implementación.  
               .tarjeta.tarjeta--slyder.b1.p-2.p-lg-4.p-md-3
                 .row.justify-content-center.mb-3
                   .col-8.my-2
@@ -304,7 +304,7 @@
       .col-lg-5.col-md-8.col-sm-12
         img.borde-redondo(src='@/assets/curso/temas/t3/img4.png', alt='')
       .col-lg-7.col-md-12.col-sm-12
-        p.mb-4 La capacitación es un pilar fundamental en la implementación de la estrategia de vivienda saludable (EVS), ya que permite que las comunidades adquieran los conocimientos y habilidades necesarias para mantener entornos habitacionales adecuados, para ello, se desarrollan talleres de formación dirigidos a facilitadores institucionales, organizaciones no gubernamentales (ONG) y agentes comunitarios, además, se llevan a cabo capacitaciones técnicas enfocadas en la ejecución de proyectos de vivienda saludable, promoviendo modelos de autoconstrucción supervisada, donde los beneficiarios participan activamente en la mejora de sus propias viviendas con el apoyo de especialistas.
+        p.mb-4 La capacitación es un pilar fundamental en la implementación de la Estrategia de Vivienda Saludable (EVS), ya que permite que las comunidades adquieran los conocimientos y habilidades necesarias para mantener entornos habitacionales adecuados, para ello, se desarrollan talleres de formación dirigidos a facilitadores institucionales, Organizaciones No Gubernamentales (ONG) y agentes comunitarios, además, se llevan a cabo capacitaciones técnicas enfocadas en la ejecución de proyectos de vivienda saludable, promoviendo modelos de autoconstrucción supervisada, donde los beneficiarios participan activamente en la mejora de sus propias viviendas con el apoyo de especialistas.
         .row.bgmoradoclaro.borde-redondo.p-2
           .col-auto
             img(src='@/assets/curso/temas/t3/ico4.png', alt='')
@@ -317,7 +317,7 @@
       .col
         h3.mb-0.mx-3 Proceso de implementación de la estrategia de vivienda saludable
 
-    p.mb-4 La implementación de la estrategia de vivienda saludable (EVS) requiere la articulación de múltiples actores y un proceso estructurado que garantice el éxito en la intervención comunitaria, este proceso incluye reuniones comunitarias, visitas domiciliarias, cooperación técnica y participación de diferentes entidades en el mejoramiento y construcción de viviendas.
+    p.mb-4 La implementación de la Estrategia de Vivienda Saludable (EVS) requiere la articulación de múltiples actores y un proceso estructurado que garantice el éxito en la intervención comunitaria, este proceso incluye reuniones comunitarias, visitas domiciliarias, cooperación técnica y participación de diferentes entidades en el mejoramiento y construcción de viviendas.
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
       .col-lg-9.col-sm-12.col-md-12

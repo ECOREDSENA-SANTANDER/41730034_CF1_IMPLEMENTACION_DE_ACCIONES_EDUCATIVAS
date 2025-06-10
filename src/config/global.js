@@ -3,7 +3,7 @@ export default {
     Name:
       'Transformando la educación: estrategias para entornos saludables y modelos pedagógicos ',
     Description:
-      'Para incursionar en la promoción de la educación en entornos saludables, Colombia fortalece competencias pedagógicas dentro del Plan decenal de salud pública (PDSP) 2012-2021 y la estrategia de entornos saludables (EES). Esta iniciativa busca mejorar la calidad de vida mediante acciones educativas centradas en la sostenibilidad ambiental, la salud pública y la equidad, alineadas con la carta de Ottawa de 1986.',
+      'Para incursionar en la promoción de la educación en entornos saludables, Colombia fortalece competencias pedagógicas dentro del Plan Decenal de Salud Pública (PDSP) 2012-2021 y la Estrategia de Entornos Saludables (EES). Esta iniciativa busca mejorar la calidad de vida mediante acciones educativas centradas en la sostenibilidad ambiental, la salud pública y la equidad, alineadas con la carta de Ottawa de 1986.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -33,7 +33,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Desarrollo de la Estrategia de entornos saludables (EES)',
+        titulo: 'Desarrollo de la Estrategia de Entornos Saludables (EES)',
         desarrolloContenidos: true,
       },
       {

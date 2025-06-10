@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p El programa de formación “transformando la educación: estrategias para entornos saludables y modelos pedagógicos” busca mejorar la calidad de vida a través de la educación y la salud pública; la estrategia de entornos saludables (EES), aplicada en escuelas y viviendas, promueve la sostenibilidad y el aprendizaje comunitario. El componente educativo optimiza recursos y estrategias como AIEPI, mientras que el componente tecnológico impulsa mejoras habitacionales y capacitación. La metodología SARAR fortalece la participación social, garantizando comunidades más resilientes y sostenibles. 
+    p El programa de formación #[b transformando la educación]: estrategias para entornos saludables y modelos pedagógicos" busca mejorar la calidad de vida a través de la educación y la salud pública; la Estrategia de Entornos Saludables (EES), aplicada en escuelas y viviendas, promueve la sostenibilidad y el aprendizaje comunitario. El componente educativo optimiza recursos y estrategias como AIEPI, mientras que el componente tecnológico impulsa mejoras habitacionales y capacitación. La metodología SARAR fortalece la participación social, garantizando comunidades más resilientes y sostenibles. 
     
 
     .row.justify-content-center

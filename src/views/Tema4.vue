@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-end.mb-4(data-aos="fade-down")
       .col-lg-7.col-md-12.col-sm-12
-        p.mb-4 El componente educativo es un eje fundamental dentro de la estrategia de vivienda saludable (EVS), ya que busca generar conciencia y fortalecer las capacidades de la comunidad en la implementación, mantenimiento y sostenibilidad de viviendas saludables, a través de este enfoque, se fomenta la adopción de hábitos protectores para la salud, la participación social y la apropiación del entorno habitacional.
+        p.mb-4 El componente educativo es un eje fundamental dentro de la Estrategia de Vivienda Saludable (EVS), ya que busca generar conciencia y fortalecer las capacidades de la comunidad en la implementación, mantenimiento y sostenibilidad de viviendas saludables, a través de este enfoque, se fomenta la adopción de hábitos protectores para la salud, la participación social y la apropiación del entorno habitacional.
         .cajon.color-primario.p-4
           p #[b El objetivo principal del componente educativo:] es orientar a los ejecutores de proyectos de vivienda saludable en el diseño, planificación e implementación de estrategias educativas que permitan la apropiación de la EVS a nivel local. Esto garantiza que las comunidades puedan gestionar de manera autónoma el mantenimiento y mejora de sus viviendas, asegurando condiciones óptimas de habitabilidad y bienestar.
       .col-lg-5.col-md-8.col-12
@@ -155,7 +155,7 @@
         .row.mt-1
           .col-auto
             h3.bgacentocontenido.mx-4.p-2.mt-5 Taller de formación
-        p.p-4.mb-5  El taller de formación tiene como propósito capacitar a los facilitadores y agentes comunitarios en la metodología de implementación del componente educativo dentro de la estrategia de vivienda saludable (EVS), durante el proceso formativo, se proporciona a los participantes el conocimiento y las herramientas necesarias para ejecutar adecuadamente las actividades de promoción y educación en salud en el ámbito comunitario.
+        p.p-4.mb-5  El taller de formación tiene como propósito capacitar a los facilitadores y agentes comunitarios en la metodología de implementación del componente educativo dentro de la Estrategia de Vivienda Saludable (EVS), durante el proceso formativo, se proporciona a los participantes el conocimiento y las herramientas necesarias para ejecutar adecuadamente las actividades de promoción y educación en salud en el ámbito comunitario.
 
     p.mb-4 Las herramientas de formación son los recursos utilizados para estructurar y desarrollar el proceso educativo dentro del programa, estas permiten garantizar la correcta aplicación de la estrategia y facilitan la transferencia de conocimientos, entre las herramientas clave se incluyen:
 
@@ -232,7 +232,7 @@
       .col-auto
         img(src='@/assets/curso/temas/t4/ico3.png', alt='')
       .col
-        p.py-4 La estrategia de atención integrada de enfermedades prevalentes de la infancia (AIEPI) es una iniciativa fundamental en la promoción de la salud infantil, que busca reducir la mortalidad y morbilidad en niños y niñas mediante intervenciones integradas en el hogar, la comunidad y los servicios de salud, su implementación en el marco del programa de vivienda saludable se centrará en la promoción de prácticas esenciales de salud a nivel familiar, seleccionadas de las 16 prácticas clave del AIEPI.
+        p.py-4 La estrategia de Atención Integrada de Enfermedades Prevalentes de la Infancia (AIEPI) es una iniciativa fundamental en la promoción de la salud infantil, que busca reducir la mortalidad y morbilidad en niños y niñas mediante intervenciones integradas en el hogar, la comunidad y los servicios de salud, su implementación en el marco del programa de vivienda saludable se centrará en la promoción de prácticas esenciales de salud a nivel familiar, seleccionadas de las 16 prácticas clave del AIEPI.
 
     p.mb-4 En este contexto, la intervención se enfocará en tres prácticas fundamentales, que pueden ajustarse según el perfil epidemiológico de cada zona:
 
@@ -273,7 +273,7 @@
       .col-lg-5.col-md-8.col-12
         img(src='@/assets/curso/temas/t4/img10.png', alt='')
       .col-lg-7.col-md-12.col-sm-12
-        p La participación activa de la comunidad es un pilar fundamental en la implementación efectiva de la estrategia de atención integrada de enfermedades prevalentes de la infancia (AIEPI), esta estrategia busca fortalecer la promoción de la salud y la prevención de enfermedades en la infancia, pero su éxito depende en gran medida de la apropiación y compromiso de la población beneficiaria.
+        p La participación activa de la comunidad es un pilar fundamental en la implementación efectiva de la estrategia de Atención Integrada de Enfermedades Prevalentes de la Infancia (AIEPI), esta estrategia busca fortalecer la promoción de la salud y la prevención de enfermedades en la infancia, pero su éxito depende en gran medida de la apropiación y compromiso de la población beneficiaria.
         p Uno de los principios esenciales de la AIEPI es la adaptación de los mensajes educativos y estrategias de intervención a las realidades socioculturales de cada comunidad, para lograr esto, es crucial que los propios miembros de la comunidad participen en la construcción y difusión de estos mensajes, asegurando que sean comprensibles, culturalmente aceptables y aplicables en su contexto diario.
         p.mb-0 Se recomienda que las acciones de promoción en salud no solo sean diseñadas por profesionales, sino que se construyan colectivamente con la comunidad, promoviendo el diálogo y el intercambio de conocimientos entre los distintos actores sociales, esto fomenta un mayor nivel de apropiación de la estrategia, ya que las comunidades reconocen la pertinencia de las prácticas promovidas y están más dispuestas a implementarlas en sus hogares.
 
