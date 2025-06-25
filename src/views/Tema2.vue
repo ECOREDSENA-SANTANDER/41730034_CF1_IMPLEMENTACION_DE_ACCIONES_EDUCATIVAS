@@ -285,14 +285,14 @@
                 .row.justify-content-center.align-items-center
                   .col-sm-12.col-md-12.col-lg-6
                     h3.mt-4 Nivel departamental
-                    p.mb-4 Gobernador (autoridad departamental) y secretarías departamentales y distritales: salud, educación, secretarías de obras y planeación, regionales del sena, corporaciones y Organizaciones No Gubernamentales (ONG), instituciones educativas.
+                    p.mb-4 Gobernador (autoridad departamental) y secretarías departamentales y distritales: salud, educación, secretarías de obras y planeación, regionales del SENA, corporaciones y Organizaciones No Gubernamentales (ONG), instituciones educativas.
                   .col-1
                   .col-6.col-md-6.col-lg-4
                     img.mt-5(src='@/assets/curso/temas/t2/sly1-2.png' alt='')
                 .row.justify-content-center.align-items-center
                   .col-sm-12.col-md-12.col-lg-6
                     h3.mt-4 Nivel local
-                    p.mb-4 Alcalde (autoridad municipal) y secretarías municipales: salud, educación, planeación, bienestar social, obras públicas, regionales del sena, Organizaciones No Gubernamentales (ONG), instituciones educativas, empresas públicas y privadas.
+                    p.mb-4 Alcalde (autoridad municipal) y secretarías municipales: salud, educación, planeación, bienestar social, obras públicas, regionales del SENA, Organizaciones No Gubernamentales (ONG), instituciones educativas, empresas públicas y privadas.
                   .col-1
                   .col-6.col-md-6.col-lg-4
                     img.mt-5(src='@/assets/curso/temas/t2/sly1-3.png' alt='')
