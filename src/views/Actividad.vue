@@ -167,7 +167,7 @@ export default {
         {
           id: 7,
           texto:
-            'El plan decenal de salud pública (PDSP) 2012-2021 respalda la implementación de entornos saludables en Colombia.',
+            'El Plan Decenal de Salud Pública (PDSP) 2012-2021 respalda la implementación de entornos saludables en Colombia.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -213,7 +213,7 @@ export default {
         {
           id: 9,
           texto:
-            'La estrategia de atención integrada a las enfermedades prevalentes de la infancia (AIEPI) busca mejorar la salud infantil mediante la promoción de prácticas saludables.',
+            'La Estrategia de Atención Integrada a las Enfermedades Prevalentes de la Infancia (AIEPI) busca mejorar la salud infantil mediante la promoción de prácticas saludables.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

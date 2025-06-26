@@ -85,7 +85,7 @@
             .col-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9IE-7BszTM8" target="_blank")
                 span Ver
-                i.fas.fa-file-download
+                i.fas.fa-video
 
     Separador  
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")

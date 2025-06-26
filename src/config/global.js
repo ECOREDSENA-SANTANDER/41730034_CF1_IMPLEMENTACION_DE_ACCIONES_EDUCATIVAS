@@ -279,24 +279,24 @@ export default {
   referencias: [
     {
       referencia:
-        'Ministerio de la protección social, ministerio de educación nacional & ministerio de ambiente, vivienda y desarrollo territorial. (2006). Lineamientos nacionales para la aplicación y el desarrollo de las Estrategias de Entornos Saludables: escuela saludable y vivienda saludable. Bogotá, Colombia. ISBN 978-958-97582-5-0.',
+        'Ministerio de la Protección Social, Ministerio de Educación Nacional & Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2006). Lineamientos Nacionales para la Aplicación y el Desarrollo de las Estrategias de Entornos Saludables: Escuela Saludable y Vivienda Saludable. Bogotá, Colombia. ISBN 978-958-97582-5-0.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-nacionales-para-la-aplicacion-y-el-desarrollo-de-las-ees.pdf',
     },
     {
       referencia:
-        'Ministerio de salud y protección social. (2017). Políticas favorecedoras para los entornos saludables. Mesa técnica nacional de entornos saludables - CONASA. Bogotá, Colombia.',
+        'Ministerio de salud y Protección Social. (2017). Políticas Favorecedoras para los Entornos Saludables. Mesa Técnica Nacional de Entornos Saludables - CONASA. Bogotá, Colombia.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/18poliiticas-favorecedoras-mtes.pdf',
     },
     {
       referencia:
-        'Ministerio de la protección social, ministerio de educación nacional, ministerio de ambiente, vivienda y desarrollo territorial, ministerio de agricultura. (s.f.). Guía metodológica para la aplicación de la estrategia de vivienda saludable. Servicio nacional de aprendizaje (SENA), Organización panamericana de la salud (OPS/OMS). Bogotá, Colombia.',
+        'Ministerio de la Protección Social, Ministerio de Educación Nacional, Ministerio de Ambiente, Vivienda y Desarrollo Territorial, Ministerio de Agricultura. (s.f.). Guía metodológica para la aplicación de la estrategia de vivienda saludable. Servicio Nacional de Aprendizaje (SENA), Organización Panamericana de la Salud (OPS/OMS). Bogotá, Colombia.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de salud y protección social. (s.f.). Actores que intervienen en la ejecución de la estrategia de entornos saludables. Organización panamericana de la salud (OPS/OMS). Bogotá, Colombia.',
+        'Ministerio de Salud y Protección Social. (s.f.). Actores que intervienen en la ejecución de la estrategia de entornos saludables. Organización Panamericana de la Salud (OPS/OMS). Bogotá, Colombia.',
       link: '',
     },
   ],
@@ -360,7 +360,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
