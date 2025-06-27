@@ -24,7 +24,7 @@ export default {
         '<b> Objetivo:</b> Evaluar la comprensión de los conceptos transformando la educación: estrategias para entornos saludables y modelos pedagógicos.',
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
-      barajarPreguntas: true,
+      barajarPreguntas: false,
       preguntas: [
         {
           id: 1,
@@ -75,7 +75,7 @@ export default {
         {
           id: 3,
           texto:
-            'La implementación de la estrategia de entornos saludables (EES) requiere la participación de diversos sectores como el político, económico y social.',
+            'La implementación de la Estrategia de Entornos Saludables (EES) requiere la participación de diversos sectores como el político, económico y social.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -98,7 +98,7 @@ export default {
         {
           id: 4,
           texto:
-            'El componente educativo de la estrategia de vivienda saludable busca únicamente capacitar a los agentes comunitarios y no a la comunidad.',
+            'El componente educativo de la Estrategia de Vivienda Saludable busca únicamente capacitar a los agentes comunitarios y no a la comunidad.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
