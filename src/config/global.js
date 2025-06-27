@@ -178,23 +178,22 @@ export default {
       tema:
         'Estrategia de la vivienda saludable y el módulo escuela saludable.',
       referencia:
-        'Barracudacyp. (2011, 10 febrero). Estrategia de la vivienda saludable y el Módulo escuela saludable - 1a parte.',
+        'Barracudacyp. (2011, 10 febrero). Estrategia de la Vivienda Saludable y el Módulo Escuela Saludable - 1a parte.',
       tipo: 'Video',
       link: 'https://youtu.be/9IE-7BszTM8',
     },
     {
-      tema:
-        'Lineamientos nacionales para la aplicación y el desarrollo de las Estrategias de Entornos Saludables: escuela saludable y vivienda saludable.',
+      tema: 'Desarrollo de la Estrategia de Entornos Saludables (EES).',
       referencia:
-        'Ministerio de la protección social, ministerio de educación nacional & ministerio de ambiente, vivienda y desarrollo territorial. (2006). Lineamientos nacionales para la aplicación y el desarrollo de las estrategias de entornos saludables: escuela saludable y vivienda saludable. Bogotá, Colombia. Isbn 978-958-97582-5-0.',
+        'Ministerio de la Protección Social, Ministerio de Educación Nacional & Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2006). Lineamientos Nacionales para la aplicación y el desarrollo de las Estrategias de Entornos Saludables: escuela saludable y vivienda saludable. Bogotá, Colombia. Isbn 978-958-97582-5-0.',
       tipo: 'PDF',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-nacionales-para-la-aplicacion-y-el-desarrollo-de-las-ees.pdf',
     },
     {
-      tema: 'Políticas favorecedoras para los entornos saludables.',
+      tema: 'Desarrollo de la Estrategia de Entornos Saludables (EES).',
       referencia:
-        'Ministerio de salud y protección social. (2017). Políticas favorecedoras para los entornos saludables. Mesa técnica nacional de entornos saludables - CONASA. Bogotá, Colombia.',
+        'Ministerio de Salud y Protección Social. (2017). Políticas favorecedoras para los entornos saludables. Mesa Técnica Nacional de Entornos Saludables - CONASA. Bogotá, Colombia.',
       tipo: 'PDF',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/18poliiticas-favorecedoras-mtes.pdf',
@@ -279,13 +278,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Ministerio de la Protección Social, Ministerio de Educación Nacional & Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2006). Lineamientos Nacionales para la Aplicación y el Desarrollo de las Estrategias de Entornos Saludables: Escuela Saludable y Vivienda Saludable. Bogotá, Colombia. ISBN 978-958-97582-5-0.',
+        'Ministerio de la Protección Social, Ministerio de Educación Nacional & Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2006). Lineamientos nacionales para la aplicación y el desarrollo de las Estrategias de Entornos Saludables: escuela saludable y vivienda saludable. Bogotá, Colombia. ISBN 978-958-97582-5-0.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-nacionales-para-la-aplicacion-y-el-desarrollo-de-las-ees.pdf',
     },
     {
       referencia:
-        'Ministerio de salud y Protección Social. (2017). Políticas Favorecedoras para los Entornos Saludables. Mesa Técnica Nacional de Entornos Saludables - CONASA. Bogotá, Colombia.',
+        'Ministerio de Salud y Protección Social. (2017). Políticas favorecedoras para los entornos saludables. Mesa Técnica Nacional de Entornos Saludables - CONASA. Bogotá, Colombia.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/18poliiticas-favorecedoras-mtes.pdf',
     },
@@ -356,12 +355,12 @@ export default {
       autores: [
         {
           nombre: 'Erika Daniela Manrique Rueda',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Andrea Ardila Chaparro',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
