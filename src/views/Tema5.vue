@@ -142,7 +142,7 @@
       .col-lg-3.col-md-6.col-col-12
         img(src='@/assets/curso/temas/t5/img9.png', alt='')
       .col-lg-4.col-md-12.col-col-sm-12
-        p.mt-3 En este sentido, la educación y sensibilización de los beneficiarios juega un papel fundamental en el éxito de las intervenciones, se recomienda la utilización del manual educativo “hacia una vivienda saludable: que viva mi hogar”, el cual proporciona información detallada sobre prácticas de mantenimiento, saneamiento y uso responsable de los recursos, por otra parte se debe fomentar la autoconstrucción solidaria, en la que los propios beneficiarios participen activamente en el mejoramiento de sus viviendas, promoviendo el sentido de pertenencia y la apropiación de las soluciones implementadas.
+        p.mt-3 En este sentido, la educación y sensibilización de los beneficiarios juega un papel fundamental en el éxito de las intervenciones, se recomienda la utilización del manual educativo “hacia una vivienda saludable: que viva mi hogar”, el cual proporciona información detallada sobre prácticas de mantenimiento, saneamiento y uso responsable de los recursos, por otra parte, se debe fomentar la autoconstrucción solidaria, en la que los propios beneficiarios participen activamente en el mejoramiento de sus viviendas, promoviendo el sentido de pertenencia y la apropiación de las soluciones implementadas.
 
     .row.align-items-center.justify-content-center.bgmoradoclaro.borde-redondo.mb-5(data-aos="fade-left")
       .col-auto

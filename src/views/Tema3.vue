@@ -5,9 +5,9 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Estrategia de vivienda saludable
+      h1 Estrategia de Vivienda Saludable
 
-    p.mb-4 La vivienda es un pilar esencial para la salud y el bienestar de las personas, más allá de ser un simple refugio, una vivienda saludable garantiza condiciones óptimas de habitabilidad, reduciendo los riesgos ambientales y promoviendo el desarrollo integral de sus habitantes; la estrategia de vivienda saludable, impulsada por la OPS/OMS y respaldada por entidades como el SENA, busca mejorar las condiciones de vivienda a través de políticas públicas, normativas y programas que fomenten entornos seguros y sostenibles.
+    p.mb-4 La vivienda es un pilar esencial para la salud y el bienestar de las personas, más allá de ser un simple refugio, una vivienda saludable garantiza condiciones óptimas de habitabilidad, reduciendo los riesgos ambientales y promoviendo el desarrollo integral de sus habitantes; la Estrategia de Vivienda Saludable, impulsada por la OPS/OMS y respaldada por entidades como el SENA, busca mejorar las condiciones de vivienda a través de políticas públicas, normativas y programas que fomenten entornos seguros y sostenibles.
 
     row.justify-content-center.align-items-center.mt-5
       .col-lg-12
@@ -56,12 +56,12 @@
                 figure
                   img(src='@/assets/curso/temas/t3/tab1-2.png', alt='Texto que describa la imagen')
 
-    p.mb-4.mt-0 La estrategia de vivienda saludable no solo busca mejorar las condiciones de las viviendas individuales, sino también transformar los entornos urbanos y rurales en espacios seguros, resilientes y sostenibles, fortaleciendo la salud y el bienestar de la población.
+    p.mb-4.mt-0 La Estrategia de Vivienda Saludable no solo busca mejorar las condiciones de las viviendas individuales, sino también transformar los entornos urbanos y rurales en espacios seguros, resilientes y sostenibles, fortaleciendo la salud y el bienestar de la población.
 
     .row.align-items-center.justify-content-center.mb-4(data-aos="fade-down")
       .col-sm-12.col-md-12.col-lg-5
         .row.bgmorado.borde-redondo
-          p.p-4.mt-2 La estrategia de vivienda saludable tiene como objetivo principal mejorar las condiciones de vivienda mediante la cooperación entre los sectores nacionales y locales, tanto públicos como privados, esta colaboración es clave para garantizar el acceso a viviendas dignas, seguras y saludables, fomentando la planificación urbana sostenible y el bienestar de la población, la articulación de esfuerzos permite la creación de entornos habitacionales que minimicen riesgos sanitarios y promuevan el acceso a servicios básicos esenciales.
+          p.p-4.mt-2 La Estrategia de Vivienda Saludable tiene como objetivo principal mejorar las condiciones de vivienda mediante la cooperación entre los sectores nacionales y locales, tanto públicos como privados, esta colaboración es clave para garantizar el acceso a viviendas dignas, seguras y saludables, fomentando la planificación urbana sostenible y el bienestar de la población, la articulación de esfuerzos permite la creación de entornos habitacionales que minimicen riesgos sanitarios y promuevan el acceso a servicios básicos esenciales.
       .col-12.col-md-6.col-lg-3
         img(src='@/assets/curso/temas/t3/img1.png', alt='')
       .col-sm-12.col-md-12.col-lg-4
@@ -89,9 +89,9 @@
 
     Separador  
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 3.1. Componentes de la estrategia de vivienda saludable
+      h2 3.1. Componentes de la Estrategia de Vivienda Saludable
 
-    p Para garantizar el desarrollo de viviendas que promuevan el bienestar y la salud de sus habitantes, la estrategia de vivienda saludable se articula en cuatro aspectos fundamentales: institucionales, metodológicos, educativos y tecnológicos, estos componentes permiten una implementación efectiva de políticas y acciones enfocadas en mejorar la calidad de vida de las personas.
+    p Para garantizar el desarrollo de viviendas que promuevan el bienestar y la salud de sus habitantes, la Estrategia de Vivienda Saludable se articula en cuatro aspectos fundamentales: institucionales, metodológicos, educativos y tecnológicos, estos componentes permiten una implementación efectiva de políticas y acciones enfocadas en mejorar la calidad de vida de las personas.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-6.col-md-6.col-lg-3
@@ -315,7 +315,7 @@
       .col-auto.ico
         img(src='@/assets/curso/temas/subt.svg', alt='')
       .col
-        h3.mb-0.mx-3 Proceso de implementación de la estrategia de vivienda saludable
+        h3.mb-0.mx-3 Proceso de implementación de la Estrategia de Vivienda Saludable
 
     p.mb-4 La implementación de la Estrategia de Vivienda Saludable (EVS) requiere la articulación de múltiples actores y un proceso estructurado que garantice el éxito en la intervención comunitaria, este proceso incluye reuniones comunitarias, visitas domiciliarias, cooperación técnica y participación de diferentes entidades en el mejoramiento y construcción de viviendas.
 

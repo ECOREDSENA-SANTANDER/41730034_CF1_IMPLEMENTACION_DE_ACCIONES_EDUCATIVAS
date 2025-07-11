@@ -44,7 +44,7 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Estrategia de escuela saludable',
+            titulo: 'Estrategia de Escuela Saludable',
             hash: 't_2_1',
           },
           {
@@ -57,7 +57,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Estrategia de vivienda saludable',
+        titulo: 'Estrategia de Vivienda Saludable',
         desarrolloContenidos: true,
         subMenu: [
           {

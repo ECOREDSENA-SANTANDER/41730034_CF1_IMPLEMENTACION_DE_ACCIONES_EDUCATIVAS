@@ -21,8 +21,8 @@ export default {
         'Transformando la educación: estrategias para entornos saludables y modelos pedagógicos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los conceptos transformando la educación: estrategias para entornos saludables y modelos pedagógicos.',
-      titulo_aprobado: '¡BUEN TRABAJO!',
+        '<b> Objetivo:</b> evaluar la comprensión de los conceptos transformando la educación: estrategias para entornos saludables y modelos pedagógicos.',
+      titulo_aprobado: '¡EXCELENTE TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
       barajarPreguntas: false,
       preguntas: [
@@ -144,7 +144,7 @@ export default {
         {
           id: 6,
           texto:
-            'La estrategia de vivienda saludable solo se enfoca en la construcción de viviendas y no considera factores sociales o ambientales.',
+            'La Estrategia de Vivienda Saludable solo se enfoca en la construcción de viviendas y no considera factores sociales o ambientales.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

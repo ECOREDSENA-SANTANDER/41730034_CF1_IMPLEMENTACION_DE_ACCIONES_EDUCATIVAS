@@ -33,7 +33,7 @@
                 span.mb-0 Sensibilización al alcalde y consejo municipal.     
               li.mb-0             
                 i.fas.fa-check-circle
-                span.mb-0 Integración de comunidad y actores sociales.   
+                span.mb-0 Integración la comunidad y actores sociales.   
             p.mb-2 #[b Actores:]
             ul.lista-ul--color.fa-al
               li.mb-0 
@@ -164,7 +164,7 @@
 
     Separador  
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 2.1 Estrategia de escuela saludable
+      h2 2.1 Estrategia de Escuela Saludable
 
     .row.align-items-center.justify-content-center.mb-4(data-aos="fade-right")
       .col-sm-12.col-md-12.col-lg-5
@@ -219,7 +219,7 @@
               p Facilitar la cooperación entre el sector público, la sociedad civil y el sector privado, con el fin de establecer compromisos y estrategias alineadas con los Objetivos de Desarrollo Sostenible (ODS).  
           .row.align-items-center.justify-content-center  
             .col-lg  
-              p Fomentar el apoyo estatal a iniciativas ambientales locales, priorizando intervenciones públicas en la protección de la salud humana y la conservación del medio ambiente.  
+              p Fomentar el apoyo estatal a iniciativas ambientales locales, priorizando inversiones públicas en la protección de la salud humana y la conservación del medio ambiente.  
             .col-auto  
               figure(data-aos="zoom-in")  
                 img.d-none.d-lg-block(src='@/assets/curso/temas/t2/ps1-7.png', alt='')  
@@ -366,7 +366,7 @@
     .row.justify-content-center.mb-3(data-aos="fade-down") 
       .col-lg-12.col-sm-12.col-md-12
         figure
-          img(src='@/assets/curso/temas/t2/fig3.png', alt='Diagrama de metodología e instrumentos de la Estrategia de Entornos Saludables (EES). presenta diversas herramientas como el modelo de gestión local de salud, la gestión integral del riesgo, programas de inmunización y control de enfermedades, estrategias de comunicación para el cambio conductual, tecnologías para entornos saludables y Análisis de la situación de salud (ASIS).')
+          img(src='@/assets/curso/temas/t2/fig3.png', alt='Diagrama de metodología e instrumentos de la Estrategia de Entornos Saludables (EES). presenta diversas herramientas como el modelo de gestión local de salud, la gestión integral del riesgo, programas de inmunización y control de enfermedades, estrategias de comunicación para el cambio conductual, tecnologías para entornos saludables y Análisis de la Situación de Salud (ASIS).')
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-down")
       .bloque-texto-g__img(

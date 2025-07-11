@@ -82,7 +82,7 @@
           ul.lista-ul--color.fa-al.px-4.mb-0  
             li   
               i.fas.fa-bell
-              span.mb-0  Análisis problemas.
+              span.mb-0  Análisis de problemas.
             li   
               i.fas.fa-bell
               span.mb-0  Inicia el proceso de participación social.
@@ -222,7 +222,7 @@
     .row.justify-content-center.bgverdeespecial.mt-0.p-0(data-aos="fade-down")
       .col-lg-6.col-sm-12.col-md-12.p-0.mt-0
         figure
-          img.p-0.mt-0(src='@/assets/curso/temas/t4/fig5.png', alt='Diagrama con herramientas y objetivos de la estrategia de vivienda saludable (EVS), destaca la formación de facilitadores, el uso de guías, manuales y materiales educativos para promover entornos saludables.')
+          img.p-0.mt-0(src='@/assets/curso/temas/t4/fig5.png', alt='Diagrama con herramientas y objetivos de la Estrategia de Vivienda Saludable (EVS), destaca la formación de facilitadores, el uso de guías, manuales y materiales educativos para promover entornos saludables.')
 
     Separador  
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
