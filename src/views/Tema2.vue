@@ -33,7 +33,7 @@
                 span.mb-0 Sensibilización al alcalde y consejo municipal.     
               li.mb-0             
                 i.fas.fa-check-circle
-                span.mb-0 Integración la comunidad y actores sociales.   
+                span.mb-0 Integración de la comunidad y actores sociales.   
             p.mb-2 #[b Actores:]
             ul.lista-ul--color.fa-al
               li.mb-0 
