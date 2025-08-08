@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.png", alt="Diagrama de estrategias para entornos saludables y modelos pedagógicos, que incluye componentes como desarrollo de la estrategia, fases de implementación, vivienda saludable, componente educativo y tecnológico, y metodología SARAR, con sus respectivos subtemas.")
+          img(src="@/assets/curso/sintesis.svg", alt="Diagrama de estrategias para entornos saludables y modelos pedagógicos, que incluye componentes como desarrollo de la estrategia, fases de implementación, vivienda saludable, componente educativo y tecnológico, y metodología SARAR, con sus respectivos subtemas.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
